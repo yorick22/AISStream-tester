@@ -93,10 +93,10 @@ async function pollPositions() {
     if (!res.ok) return;
     const data = await res.json();
     (data.vessels || []).forEach(upsertVessel);
-    if (data.generatedAt) {
-      statusEl.textContent = `Static mode — last updated ${new Date(data.generatedAt).toLocaleString()}`;
-      statusEl.className = 'status connected';
-    }
+    statusEl.textContent = data.generatedAt
+      ? `Static mode — last updated ${new Date(data.generatedAt).toLocaleString()}`
+      : 'Static mode — no position data yet, checking every 60s';
+    statusEl.className = 'status connected';
   } catch (err) {
     statusEl.textContent = 'Static mode — could not load position data';
     statusEl.className = 'status disconnected';
@@ -106,6 +106,8 @@ async function pollPositions() {
 function startPolling() {
   if (usingPolling) return;
   usingPolling = true;
+  statusEl.textContent = 'Static mode — waiting for first position update';
+  statusEl.className = 'status connected';
   pollPositions();
   setInterval(pollPositions, POLL_INTERVAL_MS);
 }
