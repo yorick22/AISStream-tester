@@ -18,7 +18,7 @@ if (!API_KEY) {
 const latestPositions = new Map();
 
 const app = express();
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'docs')));
 
 const server = app.listen(PORT, () => {
   console.log(`Yacht tracker running at http://localhost:${PORT}`);

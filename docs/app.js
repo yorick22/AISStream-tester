@@ -80,16 +80,58 @@ function renderList() {
   }
 }
 
+// On a static host like GitHub Pages there is no live /ws server, so if the
+// WebSocket doesn't open quickly we fall back to polling a JSON file that's
+// refreshed periodically by a GitHub Actions workflow.
+const POLL_INTERVAL_MS = 60000;
+const WS_FALLBACK_MS = 4000;
+let usingPolling = false;
+
+async function pollPositions() {
+  try {
+    const res = await fetch(`data/positions.json?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) return;
+    const data = await res.json();
+    (data.vessels || []).forEach(upsertVessel);
+    if (data.generatedAt) {
+      statusEl.textContent = `Static mode — last updated ${new Date(data.generatedAt).toLocaleString()}`;
+      statusEl.className = 'status connected';
+    }
+  } catch (err) {
+    statusEl.textContent = 'Static mode — could not load position data';
+    statusEl.className = 'status disconnected';
+  }
+}
+
+function startPolling() {
+  if (usingPolling) return;
+  usingPolling = true;
+  pollPositions();
+  setInterval(pollPositions, POLL_INTERVAL_MS);
+}
+
 function connect() {
   const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
   const ws = new WebSocket(`${protocol}//${window.location.host}/ws`);
+  let opened = false;
+
+  const fallbackTimer = setTimeout(() => {
+    if (!opened) {
+      ws.close();
+      startPolling();
+    }
+  }, WS_FALLBACK_MS);
 
   ws.onopen = () => {
+    opened = true;
+    clearTimeout(fallbackTimer);
     statusEl.textContent = 'Connected — waiting for position reports';
     statusEl.className = 'status connected';
   };
 
   ws.onclose = () => {
+    if (usingPolling) return;
+    if (!opened) return; // fallbackTimer will switch to polling
     statusEl.textContent = 'Disconnected — retrying...';
     statusEl.className = 'status disconnected';
     setTimeout(connect, 3000);

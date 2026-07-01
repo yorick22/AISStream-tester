@@ -1,0 +1,34 @@
+name: Update yacht positions
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm ci
+
+      - name: Fetch latest yacht positions from AISStream.io
+        env:
+          AISSTREAM_API_KEY: ${{ secrets.AISSTREAM_API_KEY }}
+        run: node scripts/fetch-positions.mjs
+
+      - name: Commit updated positions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/positions.json
+          git diff --cached --quiet || git commit -m "Update yacht positions [skip ci]"
+          git push
