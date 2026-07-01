@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+  display: flex;
+}
+
+#sidebar {
+  width: 280px;
+  flex-shrink: 0;
+  padding: 16px;
+  background: #0f172a;
+  color: #e2e8f0;
+  overflow-y: auto;
+}
+
+#sidebar h1 {
+  font-size: 18px;
+  margin: 0 0 12px;
+}
+
+.status {
+  font-size: 13px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  margin-bottom: 16px;
+}
+
+.status.connected {
+  background: #14532d;
+  color: #bbf7d0;
+}
+
+.status.disconnected {
+  background: #7f1d1d;
+  color: #fecaca;
+}
+
+#vessel-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#vessel-list li {
+  background: #1e293b;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+#vessel-list li:hover {
+  background: #334155;
+}
+
+#vessel-list .name {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+#vessel-list .detail {
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+#map {
+  flex: 1;
+}
