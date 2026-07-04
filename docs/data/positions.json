@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T17:42:44.741Z",
+  "generatedAt": "2026-07-04T18:40:26.155Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64183333333334,
-      "lon": 14.391,
-      "speedKnots": 0.1,
-      "courseDeg": 264,
-      "headingDeg": 331,
-      "timestampUtc": "2026-07-04 17:41:27.479881647 +0000 UTC"
+      "lat": 40.64216333333333,
+      "lon": 14.389833333333334,
+      "speedKnots": 0,
+      "courseDeg": 294,
+      "headingDeg": 0,
+      "timestampUtc": "2026-07-04 18:39:34.716679031 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.160920000000004,
-      "lon": 23.165180000000003,
-      "speedKnots": 13.2,
-      "courseDeg": 35,
-      "headingDeg": 35,
-      "timestampUtc": "2026-07-04 17:42:28.246302326 +0000 UTC"
+      "lat": 37.273606666666666,
+      "lon": 23.153346666666668,
+      "speedKnots": 0.2,
+      "courseDeg": 239.9,
+      "headingDeg": 232,
+      "timestampUtc": "2026-07-04 18:39:52.603140042 +0000 UTC"
     }
   ]
 }
