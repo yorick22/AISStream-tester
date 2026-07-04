@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T22:38:30.033Z",
+  "generatedAt": "2026-07-04T23:42:24.646Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64207,
-      "lon": 14.390046666666667,
-      "speedKnots": 0.2,
-      "courseDeg": 325,
-      "headingDeg": 12,
-      "timestampUtc": "2026-07-04 22:37:54.686826635 +0000 UTC"
+      "lat": 40.642,
+      "lon": 14.390501666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 304,
+      "headingDeg": 6,
+      "timestampUtc": "2026-07-04 23:42:04.373204085 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -50,6 +50,26 @@
       "courseDeg": 35.7,
       "headingDeg": 32,
       "timestampUtc": "2026-07-04 21:39:08.640169004 +0000 UTC"
+    },
+    {
+      "mmsi": "319305700",
+      "name": "JAS",
+      "lat": 43.28682,
+      "lon": 6.640333333333333,
+      "speedKnots": 0,
+      "courseDeg": 187.7,
+      "headingDeg": 314,
+      "timestampUtc": "2026-07-04 23:41:34.484617151 +0000 UTC"
+    },
+    {
+      "mmsi": "232205000",
+      "name": "LADY GEORGINA",
+      "lat": 39.566053333333336,
+      "lon": 2.6408066666666667,
+      "speedKnots": 0,
+      "courseDeg": 50.5,
+      "headingDeg": 236,
+      "timestampUtc": "2026-07-04 23:41:38.268139498 +0000 UTC"
     }
   ]
 }
