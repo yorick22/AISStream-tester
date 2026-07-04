@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:52:23.928Z",
+  "generatedAt": "2026-07-04T20:43:30.573Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -7,29 +7,29 @@
       "lat": 41.36983333333333,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 185,
+      "courseDeg": 184.9,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-04 19:52:08.432935587 +0000 UTC"
+      "timestampUtc": "2026-07-04 20:43:09.649147147 +0000 UTC"
     },
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64216333333333,
-      "lon": 14.389833333333334,
+      "lat": 40.64233333333333,
+      "lon": 14.389999999999999,
       "speedKnots": 0,
-      "courseDeg": 294,
-      "headingDeg": 0,
-      "timestampUtc": "2026-07-04 18:39:34.716679031 +0000 UTC"
+      "courseDeg": 338,
+      "headingDeg": 6,
+      "timestampUtc": "2026-07-04 20:43:07.179267449 +0000 UTC"
     },
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.703224999999996,
-      "lon": 7.342336666666667,
+      "lat": 43.70322833333333,
+      "lon": 7.342396666666667,
       "speedKnots": 0,
       "courseDeg": 73.3,
-      "headingDeg": 214,
-      "timestampUtc": "2026-07-04 17:42:17.460969835 +0000 UTC"
+      "headingDeg": 222,
+      "timestampUtc": "2026-07-04 20:42:17.902126783 +0000 UTC"
     },
     {
       "mmsi": "249091000",
