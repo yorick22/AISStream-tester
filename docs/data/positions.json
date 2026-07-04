@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T18:40:26.155Z",
+  "generatedAt": "2026-07-04T19:52:23.928Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -7,9 +7,9 @@
       "lat": 41.36983333333333,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 185.1,
+      "courseDeg": 185,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-03 23:55:09.247203214 +0000 UTC"
+      "timestampUtc": "2026-07-04 19:52:08.432935587 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -40,6 +40,16 @@
       "courseDeg": 239.9,
       "headingDeg": 232,
       "timestampUtc": "2026-07-04 18:39:52.603140042 +0000 UTC"
+    },
+    {
+      "mmsi": "228456700",
+      "name": "ARTEXPLORER",
+      "lat": 39.33086,
+      "lon": 1.0313733333333333,
+      "speedKnots": 10.4,
+      "courseDeg": 36.7,
+      "headingDeg": 36,
+      "timestampUtc": "2026-07-04 19:51:49.625980822 +0000 UTC"
     }
   ]
 }
