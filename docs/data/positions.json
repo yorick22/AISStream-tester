@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-04T20:43:30.573Z",
+  "generatedAt": "2026-07-04T21:40:13.219Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.36983333333333,
+      "lat": 41.369816666666665,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 184.9,
+      "courseDeg": 185.1,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-04 20:43:09.649147147 +0000 UTC"
+      "timestampUtc": "2026-07-04 21:40:08.406358934 +0000 UTC"
     },
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64233333333333,
-      "lon": 14.389999999999999,
-      "speedKnots": 0,
-      "courseDeg": 338,
-      "headingDeg": 6,
-      "timestampUtc": "2026-07-04 20:43:07.179267449 +0000 UTC"
+      "lat": 40.64223333333334,
+      "lon": 14.390015,
+      "speedKnots": 0.2,
+      "courseDeg": 103,
+      "headingDeg": 55,
+      "timestampUtc": "2026-07-04 21:39:27.605961572 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 39.33086,
-      "lon": 1.0313733333333333,
-      "speedKnots": 10.4,
-      "courseDeg": 36.7,
-      "headingDeg": 36,
-      "timestampUtc": "2026-07-04 19:51:49.625980822 +0000 UTC"
+      "lat": 39.59544,
+      "lon": 1.2701749999999998,
+      "speedKnots": 11,
+      "courseDeg": 35.7,
+      "headingDeg": 32,
+      "timestampUtc": "2026-07-04 21:39:08.640169004 +0000 UTC"
     }
   ]
 }
