@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:40:13.219Z",
+  "generatedAt": "2026-07-04T22:38:30.033Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64223333333334,
-      "lon": 14.390015,
+      "lat": 40.64207,
+      "lon": 14.390046666666667,
       "speedKnots": 0.2,
-      "courseDeg": 103,
-      "headingDeg": 55,
-      "timestampUtc": "2026-07-04 21:39:27.605961572 +0000 UTC"
+      "courseDeg": 325,
+      "headingDeg": 12,
+      "timestampUtc": "2026-07-04 22:37:54.686826635 +0000 UTC"
     },
     {
       "mmsi": "319086200",
