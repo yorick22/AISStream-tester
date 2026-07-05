@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T16:42:19.069Z",
+  "generatedAt": "2026-07-05T17:44:42.930Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -74,12 +74,12 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.659545,
-      "lon": 13.728921666666668,
-      "speedKnots": 0,
-      "courseDeg": 327.9,
-      "headingDeg": 313,
-      "timestampUtc": "2026-07-05 16:41:06.203282232 +0000 UTC"
+      "lat": 45.65992166666667,
+      "lon": 13.729125,
+      "speedKnots": 0.1,
+      "courseDeg": 164.2,
+      "headingDeg": 281,
+      "timestampUtc": "2026-07-05 17:44:07.768719661 +0000 UTC"
     },
     {
       "mmsi": "247540140",
