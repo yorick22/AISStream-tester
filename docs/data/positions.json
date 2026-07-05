@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T01:24:02.816Z",
+  "generatedAt": "2026-07-05T05:28:20.680Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -15,11 +15,11 @@
       "mmsi": "319099400",
       "name": "SAMURAI",
       "lat": 40.64216333333333,
-      "lon": 14.389999999999999,
+      "lon": 14.39083,
       "speedKnots": 0,
-      "courseDeg": 194,
-      "headingDeg": 34,
-      "timestampUtc": "2026-07-05 01:23:29.050492576 +0000 UTC"
+      "courseDeg": 89,
+      "headingDeg": 293,
+      "timestampUtc": "2026-07-05 05:27:28.663354334 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 40.152305,
-      "lon": 1.7821716666666667,
-      "speedKnots": 10.6,
-      "courseDeg": 37.2,
-      "headingDeg": 36,
-      "timestampUtc": "2026-07-05 01:23:39.142302972 +0000 UTC"
+      "lat": 40.76410666666666,
+      "lon": 2.3455250000000003,
+      "speedKnots": 11.3,
+      "courseDeg": 35.8,
+      "headingDeg": 33,
+      "timestampUtc": "2026-07-05 05:28:08.464997167 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -80,6 +80,16 @@
       "courseDeg": 242.2,
       "headingDeg": 200,
       "timestampUtc": "2026-07-05 01:23:07.048057685 +0000 UTC"
+    },
+    {
+      "mmsi": "247540140",
+      "name": "NO RUSH",
+      "lat": 43.747150000000005,
+      "lon": 7.45981,
+      "speedKnots": 0,
+      "courseDeg": 174.7,
+      "headingDeg": 236,
+      "timestampUtc": "2026-07-05 05:26:54.026106958 +0000 UTC"
     }
   ]
 }
