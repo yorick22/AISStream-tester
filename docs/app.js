@@ -15,8 +15,10 @@ const listEl = document.getElementById('vessel-list');
 function yachtIcon() {
   return L.divIcon({
     className: 'yacht-icon',
-    html: '⛵',
-    iconSize: [24, 24],
+    html: '<div class="yacht-marker">⛵</div>',
+    iconSize: [30, 30],
+    iconAnchor: [15, 15],
+    popupAnchor: [0, -15],
   });
 }
 
