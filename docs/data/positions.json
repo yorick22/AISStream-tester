@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:59:49.037Z",
+  "generatedAt": "2026-07-05T20:58:19.685Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.58676666666667,
-      "lon": 7.130701666666667,
+      "lat": 43.586776666666665,
+      "lon": 7.130705000000001,
       "speedKnots": 0,
-      "courseDeg": 167.6,
+      "courseDeg": 178.7,
       "headingDeg": 303,
-      "timestampUtc": "2026-07-05 19:58:32.238422054 +0000 UTC"
+      "timestampUtc": "2026-07-05 20:58:12.298357408 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -140,6 +140,16 @@
       "courseDeg": 29,
       "headingDeg": 21,
       "timestampUtc": "2026-07-05 15:36:08.172852586 +0000 UTC"
+    },
+    {
+      "mmsi": "538071262",
+      "name": "DANCING HARE",
+      "lat": 41.59156666666667,
+      "lon": -70.387335,
+      "speedKnots": 0.1,
+      "courseDeg": 12.1,
+      "headingDeg": 84,
+      "timestampUtc": "2026-07-05 20:57:50.979100299 +0000 UTC"
     }
   ]
 }
