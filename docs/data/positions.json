@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T23:42:24.646Z",
+  "generatedAt": "2026-07-05T01:24:02.816Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.642,
-      "lon": 14.390501666666667,
-      "speedKnots": 0.1,
-      "courseDeg": 304,
-      "headingDeg": 6,
-      "timestampUtc": "2026-07-04 23:42:04.373204085 +0000 UTC"
+      "lat": 40.64216333333333,
+      "lon": 14.389999999999999,
+      "speedKnots": 0,
+      "courseDeg": 194,
+      "headingDeg": 34,
+      "timestampUtc": "2026-07-05 01:23:29.050492576 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 39.59544,
-      "lon": 1.2701749999999998,
-      "speedKnots": 11,
-      "courseDeg": 35.7,
-      "headingDeg": 32,
-      "timestampUtc": "2026-07-04 21:39:08.640169004 +0000 UTC"
+      "lat": 40.152305,
+      "lon": 1.7821716666666667,
+      "speedKnots": 10.6,
+      "courseDeg": 37.2,
+      "headingDeg": 36,
+      "timestampUtc": "2026-07-05 01:23:39.142302972 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -64,12 +64,22 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.566053333333336,
-      "lon": 2.6408066666666667,
+      "lat": 39.56615166666666,
+      "lon": 2.6408133333333335,
       "speedKnots": 0,
       "courseDeg": 50.5,
       "headingDeg": 236,
-      "timestampUtc": "2026-07-04 23:41:38.268139498 +0000 UTC"
+      "timestampUtc": "2026-07-05 01:23:41.363373907 +0000 UTC"
+    },
+    {
+      "mmsi": "667002036",
+      "name": "SY A",
+      "lat": 45.660354999999996,
+      "lon": 13.72813,
+      "speedKnots": 0,
+      "courseDeg": 242.2,
+      "headingDeg": 200,
+      "timestampUtc": "2026-07-05 01:23:07.048057685 +0000 UTC"
     }
   ]
 }
