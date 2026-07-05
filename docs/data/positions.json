@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T08:25:07.792Z",
+  "generatedAt": "2026-07-05T10:35:32.506Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -7,9 +7,9 @@
       "lat": 41.369816666666665,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 185.1,
+      "courseDeg": 185.2,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-04 21:40:08.406358934 +0000 UTC"
+      "timestampUtc": "2026-07-05 10:34:07.79253692 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -120,6 +120,16 @@
       "courseDeg": 309,
       "headingDeg": 293,
       "timestampUtc": "2026-07-05 08:23:52.129257457 +0000 UTC"
+    },
+    {
+      "mmsi": "538071689",
+      "name": "SAMIRA",
+      "lat": 43.592623333333336,
+      "lon": 7.254408333333333,
+      "speedKnots": 10.2,
+      "courseDeg": 47.1,
+      "headingDeg": 50,
+      "timestampUtc": "2026-07-05 10:35:19.380058791 +0000 UTC"
     }
   ]
 }
