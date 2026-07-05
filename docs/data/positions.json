@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T10:35:32.506Z",
+  "generatedAt": "2026-07-05T12:03:34.973Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -74,22 +74,22 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.660354999999996,
-      "lon": 13.72813,
-      "speedKnots": 0,
-      "courseDeg": 242.2,
-      "headingDeg": 200,
-      "timestampUtc": "2026-07-05 01:23:07.048057685 +0000 UTC"
+      "lat": 45.65968,
+      "lon": 13.728713333333333,
+      "speedKnots": 0.1,
+      "courseDeg": 33.5,
+      "headingDeg": 310,
+      "timestampUtc": "2026-07-05 12:02:06.43301626 +0000 UTC"
     },
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.747150000000005,
-      "lon": 7.45981,
+      "lat": 43.747364999999995,
+      "lon": 7.459836666666666,
       "speedKnots": 0,
-      "courseDeg": 174.7,
-      "headingDeg": 236,
-      "timestampUtc": "2026-07-05 05:26:54.026106958 +0000 UTC"
+      "courseDeg": 295,
+      "headingDeg": 226,
+      "timestampUtc": "2026-07-05 12:02:50.135116487 +0000 UTC"
     },
     {
       "mmsi": "319134300",
