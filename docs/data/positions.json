@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T23:56:24.138Z",
+  "generatedAt": "2026-07-06T02:01:06.194Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 40.76410666666666,
-      "lon": 2.3455250000000003,
-      "speedKnots": 11.3,
-      "courseDeg": 35.8,
-      "headingDeg": 33,
-      "timestampUtc": "2026-07-05 05:28:08.464997167 +0000 UTC"
+      "lat": 43.30154166666667,
+      "lon": 5.309405,
+      "speedKnots": 10.7,
+      "courseDeg": 85.1,
+      "headingDeg": 85,
+      "timestampUtc": "2026-07-06 02:00:28.21302732 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -124,22 +124,22 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.736755,
-      "lon": 7.424198333333334,
+      "lat": 43.73677166666666,
+      "lon": 7.42421,
       "speedKnots": 0.1,
-      "courseDeg": 352,
+      "courseDeg": 90,
       "headingDeg": 172,
-      "timestampUtc": "2026-07-05 18:45:29.631050621 +0000 UTC"
+      "timestampUtc": "2026-07-06 02:00:43.954154609 +0000 UTC"
     },
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.23983833333333,
-      "lon": 6.17457,
-      "speedKnots": 13.1,
-      "courseDeg": 29,
-      "headingDeg": 21,
-      "timestampUtc": "2026-07-05 15:36:08.172852586 +0000 UTC"
+      "lat": 60.36525833333334,
+      "lon": 6.199726666666667,
+      "speedKnots": 0,
+      "courseDeg": 225.7,
+      "headingDeg": 74,
+      "timestampUtc": "2026-07-06 02:00:49.839835123 +0000 UTC"
     },
     {
       "mmsi": "538071262",
