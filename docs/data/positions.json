@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T21:50:25.411Z",
+  "generatedAt": "2026-07-07T22:51:30.071Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -74,22 +74,22 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.660561666666666,
-      "lon": 13.728538333333335,
-      "speedKnots": 0.1,
-      "courseDeg": 318.5,
-      "headingDeg": 209,
-      "timestampUtc": "2026-07-07 21:50:06.845044115 +0000 UTC"
+      "lat": 45.66061666666667,
+      "lon": 13.728236666666668,
+      "speedKnots": 0,
+      "courseDeg": 80.5,
+      "headingDeg": 183,
+      "timestampUtc": "2026-07-07 22:50:07.949520032 +0000 UTC"
     },
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.747391666666665,
-      "lon": 7.460093333333333,
-      "speedKnots": 0.1,
-      "courseDeg": 291.1,
-      "headingDeg": 229,
-      "timestampUtc": "2026-07-07 18:18:12.122077053 +0000 UTC"
+      "lat": 43.746869999999994,
+      "lon": 7.460216666666667,
+      "speedKnots": 0,
+      "courseDeg": 139.6,
+      "headingDeg": 286,
+      "timestampUtc": "2026-07-07 22:51:12.223831238 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.586553333333335,
-      "lon": 7.143475,
+      "lat": 43.58672166666667,
+      "lon": 7.143483333333333,
       "speedKnots": 0,
-      "courseDeg": 127.4,
-      "headingDeg": 126,
-      "timestampUtc": "2026-07-07 08:42:29.301615751 +0000 UTC"
+      "courseDeg": 72.2,
+      "headingDeg": 110,
+      "timestampUtc": "2026-07-07 22:51:27.875009912 +0000 UTC"
     },
     {
       "mmsi": "247092700",
