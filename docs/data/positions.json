@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T23:44:20.189Z",
+  "generatedAt": "2026-07-07T01:24:51.585Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.347941666666664,
-      "lon": 23.100855000000003,
-      "speedKnots": 0,
-      "courseDeg": 112,
-      "headingDeg": 353,
-      "timestampUtc": "2026-07-06 23:43:54.971323367 +0000 UTC"
+      "lat": 37.145745000000005,
+      "lon": 23.093166666666665,
+      "speedKnots": 13.1,
+      "courseDeg": 170.1,
+      "headingDeg": 167,
+      "timestampUtc": "2026-07-07 01:23:52.662770465 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.566066666666664,
-      "lon": 2.6408283333333333,
+      "lat": 39.56603166666666,
+      "lon": 2.640855,
       "speedKnots": 0,
-      "courseDeg": 32.3,
+      "courseDeg": 54.2,
       "headingDeg": 236,
-      "timestampUtc": "2026-07-05 19:59:42.960815452 +0000 UTC"
+      "timestampUtc": "2026-07-07 01:23:56.60015302 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -84,32 +84,32 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.747386666666664,
-      "lon": 7.45998,
+      "lat": 43.74735333333333,
+      "lon": 7.459555,
       "speedKnots": 0,
-      "courseDeg": 302.9,
-      "headingDeg": 221,
-      "timestampUtc": "2026-07-06 14:42:03.913619556 +0000 UTC"
+      "courseDeg": 291.1,
+      "headingDeg": 165,
+      "timestampUtc": "2026-07-07 01:24:04.076813373 +0000 UTC"
     },
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.58677333333333,
-      "lon": 7.130705000000001,
+      "lat": 43.58678166666667,
+      "lon": 7.13071,
       "speedKnots": 0,
-      "courseDeg": 179.9,
+      "courseDeg": 178.7,
       "headingDeg": 303,
-      "timestampUtc": "2026-07-06 23:44:12.27155094 +0000 UTC"
+      "timestampUtc": "2026-07-07 01:24:42.824370781 +0000 UTC"
     },
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.586816666666664,
-      "lon": 7.144373333333333,
+      "lat": 43.58669833333333,
+      "lon": 7.1437083333333335,
       "speedKnots": 0,
-      "courseDeg": 140.2,
-      "headingDeg": 208,
-      "timestampUtc": "2026-07-06 17:27:22.482494992 +0000 UTC"
+      "courseDeg": 127.4,
+      "headingDeg": 140,
+      "timestampUtc": "2026-07-07 01:24:21.962545009 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -150,6 +150,16 @@
       "courseDeg": 7.1,
       "headingDeg": 10,
       "timestampUtc": "2026-07-06 06:37:58.434901279 +0000 UTC"
+    },
+    {
+      "mmsi": "538071318",
+      "name": "QUINTA ESSENTIA",
+      "lat": 36.619225,
+      "lon": 27.559826666666666,
+      "speedKnots": 8.5,
+      "courseDeg": 88.2,
+      "headingDeg": 88,
+      "timestampUtc": "2026-07-07 01:24:43.143172294 +0000 UTC"
     }
   ]
 }
