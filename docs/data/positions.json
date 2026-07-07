@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T16:11:02.819Z",
+  "generatedAt": "2026-07-07T18:18:24.863Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -64,32 +64,32 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56603166666666,
-      "lon": 2.640855,
+      "lat": 39.56605666666667,
+      "lon": 2.6408300000000002,
       "speedKnots": 0,
       "courseDeg": 54.2,
       "headingDeg": 236,
-      "timestampUtc": "2026-07-07 01:23:56.60015302 +0000 UTC"
+      "timestampUtc": "2026-07-07 18:17:55.272835903 +0000 UTC"
     },
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.66005,
-      "lon": 13.729241666666667,
-      "speedKnots": 0,
-      "courseDeg": 74.3,
-      "headingDeg": 262,
-      "timestampUtc": "2026-07-07 13:35:07.632473682 +0000 UTC"
+      "lat": 45.659818333333334,
+      "lon": 13.729061666666666,
+      "speedKnots": 0.1,
+      "courseDeg": 41.9,
+      "headingDeg": 288,
+      "timestampUtc": "2026-07-07 18:17:06.685331325 +0000 UTC"
     },
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.747238333333335,
-      "lon": 7.459126666666666,
-      "speedKnots": 0,
+      "lat": 43.747391666666665,
+      "lon": 7.460093333333333,
+      "speedKnots": 0.1,
       "courseDeg": 291.1,
-      "headingDeg": 111,
-      "timestampUtc": "2026-07-07 11:30:06.807647063 +0000 UTC"
+      "headingDeg": 229,
+      "timestampUtc": "2026-07-07 18:18:12.122077053 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -170,6 +170,16 @@
       "courseDeg": 119,
       "headingDeg": 117,
       "timestampUtc": "2026-07-07 16:10:34.411864074 +0000 UTC"
+    },
+    {
+      "mmsi": "319242300",
+      "name": "KENSHO",
+      "lat": 38.672198333333334,
+      "lon": 1.4905216666666665,
+      "speedKnots": 0,
+      "courseDeg": 251.5,
+      "headingDeg": 188,
+      "timestampUtc": "2026-07-07 18:18:14.72824887 +0000 UTC"
     }
   ]
 }
