@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-07T08:43:35.588Z",
+  "generatedAt": "2026-07-07T11:31:30.548Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
       "lat": 41.369816666666665,
-      "lon": 2.1847333333333334,
+      "lon": 2.1847166666666666,
       "speedKnots": 0,
-      "courseDeg": 185.4,
+      "courseDeg": 185.3,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-06 06:37:09.153609077 +0000 UTC"
+      "timestampUtc": "2026-07-07 11:31:07.972348886 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -84,22 +84,22 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.74735333333333,
-      "lon": 7.459555,
+      "lat": 43.747238333333335,
+      "lon": 7.459126666666666,
       "speedKnots": 0,
       "courseDeg": 291.1,
-      "headingDeg": 165,
-      "timestampUtc": "2026-07-07 01:24:04.076813373 +0000 UTC"
+      "headingDeg": 111,
+      "timestampUtc": "2026-07-07 11:30:06.807647063 +0000 UTC"
     },
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.58673833333333,
-      "lon": 7.1306883333333335,
-      "speedKnots": 0,
-      "courseDeg": 0,
-      "headingDeg": 303,
-      "timestampUtc": "2026-07-07 08:42:21.349964194 +0000 UTC"
+      "lat": 43.59503666666667,
+      "lon": 7.141526666666667,
+      "speedKnots": 8.6,
+      "courseDeg": 68.3,
+      "headingDeg": 69,
+      "timestampUtc": "2026-07-07 11:30:29.859572537 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.717578333333336,
-      "lon": 14.475061666666667,
+      "lat": 40.717585,
+      "lon": 14.475066666666667,
       "speedKnots": 0,
-      "courseDeg": 277,
-      "headingDeg": 294,
-      "timestampUtc": "2026-07-06 14:42:03.47818769 +0000 UTC"
+      "courseDeg": 276,
+      "headingDeg": 295,
+      "timestampUtc": "2026-07-07 11:30:09.532028336 +0000 UTC"
     },
     {
       "mmsi": "538071689",
