@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T13:35:54.099Z",
+  "generatedAt": "2026-07-07T16:11:02.819Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -43,13 +43,13 @@
     },
     {
       "mmsi": "228456700",
-      "name": "ARTEXPLORER",
+      "name": "MMSI 228456700",
       "lat": 43.322806666666665,
-      "lon": 5.35893,
+      "lon": 5.358933333333334,
       "speedKnots": 0,
-      "courseDeg": 330.7,
-      "headingDeg": 204,
-      "timestampUtc": "2026-07-07 05:13:46.302017464 +0000 UTC"
+      "courseDeg": 208.5,
+      "headingDeg": 203,
+      "timestampUtc": "2026-07-07 16:10:52.193897071 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -160,6 +160,16 @@
       "courseDeg": 88.2,
       "headingDeg": 88,
       "timestampUtc": "2026-07-07 01:24:43.143172294 +0000 UTC"
+    },
+    {
+      "mmsi": "249528000",
+      "name": "RAJA2",
+      "lat": 37.827819999999996,
+      "lon": 20.88719166666667,
+      "speedKnots": 13.7,
+      "courseDeg": 119,
+      "headingDeg": 117,
+      "timestampUtc": "2026-07-07 16:10:34.411864074 +0000 UTC"
     }
   ]
 }
