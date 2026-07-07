@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T18:18:24.863Z",
+  "generatedAt": "2026-07-07T20:22:20.482Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -54,22 +54,22 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.521568333333335,
-      "lon": 6.951333333333333,
+      "lat": 43.522468333333336,
+      "lon": 6.951661666666666,
       "speedKnots": 0,
-      "courseDeg": 178.9,
-      "headingDeg": 13,
-      "timestampUtc": "2026-07-05 22:48:46.773780358 +0000 UTC"
+      "courseDeg": 42.9,
+      "headingDeg": 198,
+      "timestampUtc": "2026-07-07 20:22:00.895701346 +0000 UTC"
     },
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56605666666667,
-      "lon": 2.6408300000000002,
+      "lat": 39.566068333333334,
+      "lon": 2.6408383333333334,
       "speedKnots": 0,
       "courseDeg": 54.2,
       "headingDeg": 236,
-      "timestampUtc": "2026-07-07 18:17:55.272835903 +0000 UTC"
+      "timestampUtc": "2026-07-07 20:20:57.805026217 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.73661166666667,
-      "lon": 7.449853333333333,
-      "speedKnots": 4,
-      "courseDeg": 21.4,
-      "headingDeg": 20,
-      "timestampUtc": "2026-07-07 13:35:20.856350764 +0000 UTC"
+      "lat": 43.72947,
+      "lon": 7.51594,
+      "speedKnots": 8.7,
+      "courseDeg": 84.7,
+      "headingDeg": 86,
+      "timestampUtc": "2026-07-07 20:20:57.028689791 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.717585,
-      "lon": 14.475066666666667,
+      "lat": 40.717575000000004,
+      "lon": 14.475061666666667,
       "speedKnots": 0,
-      "courseDeg": 276,
-      "headingDeg": 295,
-      "timestampUtc": "2026-07-07 11:30:09.532028336 +0000 UTC"
+      "courseDeg": 56.7,
+      "headingDeg": 293,
+      "timestampUtc": "2026-07-07 20:21:07.494193691 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -180,6 +180,16 @@
       "courseDeg": 251.5,
       "headingDeg": 188,
       "timestampUtc": "2026-07-07 18:18:14.72824887 +0000 UTC"
+    },
+    {
+      "mmsi": "319129000",
+      "name": "VALENTINA",
+      "lat": 35.413244999999996,
+      "lon": -12.197846666666667,
+      "speedKnots": 9.3,
+      "courseDeg": 88.4,
+      "headingDeg": 82,
+      "timestampUtc": "2026-07-07 20:21:50.643904532 +0000 UTC"
     }
   ]
 }
