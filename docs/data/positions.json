@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T16:56:13.214Z",
+  "generatedAt": "2026-07-08T18:13:48.462Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -7,9 +7,9 @@
       "lat": 41.36983333333333,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 185.2,
+      "courseDeg": 185.1,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-08 13:01:08.330464032 +0000 UTC"
+      "timestampUtc": "2026-07-08 18:13:42.649170738 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.35154333333333,
-      "lon": 5.292796666666666,
-      "speedKnots": 0.8,
-      "courseDeg": 103.9,
-      "headingDeg": 80,
-      "timestampUtc": "2026-07-08 16:55:43.305761106 +0000 UTC"
+      "lat": 43.30598833333333,
+      "lon": 5.278881666666666,
+      "speedKnots": 9.1,
+      "courseDeg": 194.8,
+      "headingDeg": 201,
+      "timestampUtc": "2026-07-08 18:13:13.856974571 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56604333333333,
-      "lon": 2.6408533333333333,
+      "lat": 39.566075,
+      "lon": 2.6407933333333333,
       "speedKnots": 0,
-      "courseDeg": 333.1,
+      "courseDeg": 159.8,
       "headingDeg": 236,
-      "timestampUtc": "2026-07-08 09:36:03.602979648 +0000 UTC"
+      "timestampUtc": "2026-07-08 18:12:39.656446193 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -84,12 +84,12 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.74691666666667,
-      "lon": 7.460166666666667,
+      "lat": 43.74744333333333,
+      "lon": 7.459895,
       "speedKnots": 0,
       "courseDeg": 139.6,
-      "headingDeg": 289,
-      "timestampUtc": "2026-07-08 01:12:14.615972686 +0000 UTC"
+      "headingDeg": 189,
+      "timestampUtc": "2026-07-08 18:12:18.993562293 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -154,12 +154,12 @@
     {
       "mmsi": "538071318",
       "name": "QUINTA ESSENTIA",
-      "lat": 36.67214166666667,
-      "lon": 28.04864,
-      "speedKnots": 0.1,
-      "courseDeg": 353.8,
-      "headingDeg": 266,
-      "timestampUtc": "2026-07-08 13:00:41.713597687 +0000 UTC"
+      "lat": 36.54867,
+      "lon": 28.076103333333332,
+      "speedKnots": 11.5,
+      "courseDeg": 77.7,
+      "headingDeg": 75,
+      "timestampUtc": "2026-07-08 18:12:53.537948038 +0000 UTC"
     },
     {
       "mmsi": "249528000",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 35.75175333333333,
-      "lon": -7.977893333333333,
+      "lat": 35.78057666666667,
+      "lon": -7.720193333333333,
       "speedKnots": 10.2,
-      "courseDeg": 84.7,
-      "headingDeg": 82,
-      "timestampUtc": "2026-07-08 16:55:50.239621786 +0000 UTC"
+      "courseDeg": 83.1,
+      "headingDeg": 84,
+      "timestampUtc": "2026-07-08 18:12:50.475726055 +0000 UTC"
     }
   ]
 }
