@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-08T11:29:36.970Z",
+  "generatedAt": "2026-07-08T13:01:35.902Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.369816666666665,
+      "lat": 41.36983333333333,
       "lon": 2.1847333333333334,
       "speedKnots": 0,
-      "courseDeg": 185.3,
+      "courseDeg": 185.2,
       "headingDeg": 185,
-      "timestampUtc": "2026-07-08 04:31:09.208838622 +0000 UTC"
+      "timestampUtc": "2026-07-08 13:01:08.330464032 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.71757,
-      "lon": 14.475060000000001,
+      "lat": 40.71711333333334,
+      "lon": 14.47476,
       "speedKnots": 0,
-      "courseDeg": 239.1,
+      "courseDeg": 248.3,
       "headingDeg": 293,
-      "timestampUtc": "2026-07-07 23:45:11.933232046 +0000 UTC"
+      "timestampUtc": "2026-07-08 13:00:19.946178599 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -154,12 +154,12 @@
     {
       "mmsi": "538071318",
       "name": "QUINTA ESSENTIA",
-      "lat": 36.67239666666667,
-      "lon": 28.048641666666665,
+      "lat": 36.67214166666667,
+      "lon": 28.04864,
       "speedKnots": 0.1,
-      "courseDeg": 318.8,
-      "headingDeg": 252,
-      "timestampUtc": "2026-07-08 11:28:11.087882267 +0000 UTC"
+      "courseDeg": 353.8,
+      "headingDeg": 266,
+      "timestampUtc": "2026-07-08 13:00:41.713597687 +0000 UTC"
     },
     {
       "mmsi": "249528000",
