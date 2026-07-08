@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T15:24:50.563Z",
+  "generatedAt": "2026-07-08T16:56:13.214Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.32281,
-      "lon": 5.358928333333334,
-      "speedKnots": 0,
-      "courseDeg": 223,
-      "headingDeg": 204,
-      "timestampUtc": "2026-07-08 11:28:18.723871647 +0000 UTC"
+      "lat": 43.35154333333333,
+      "lon": 5.292796666666666,
+      "speedKnots": 0.8,
+      "courseDeg": 103.9,
+      "headingDeg": 80,
+      "timestampUtc": "2026-07-08 16:55:43.305761106 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -164,12 +164,12 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.827819999999996,
-      "lon": 20.88719166666667,
-      "speedKnots": 13.7,
-      "courseDeg": 119,
-      "headingDeg": 117,
-      "timestampUtc": "2026-07-07 16:10:34.411864074 +0000 UTC"
+      "lat": 37.913086666666665,
+      "lon": 21.035813333333333,
+      "speedKnots": 9.2,
+      "courseDeg": 36,
+      "headingDeg": 34,
+      "timestampUtc": "2026-07-08 16:55:57.582638719 +0000 UTC"
     },
     {
       "mmsi": "319242300",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 35.66292166666666,
-      "lon": -9.099575,
-      "speedKnots": 10,
-      "courseDeg": 84.1,
-      "headingDeg": 81,
-      "timestampUtc": "2026-07-08 11:28:49.708882163 +0000 UTC"
+      "lat": 35.75175333333333,
+      "lon": -7.977893333333333,
+      "speedKnots": 10.2,
+      "courseDeg": 84.7,
+      "headingDeg": 82,
+      "timestampUtc": "2026-07-08 16:55:50.239621786 +0000 UTC"
     }
   ]
 }
