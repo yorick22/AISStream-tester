@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T00:09:56.486Z",
+  "generatedAt": "2026-07-09T04:17:00.960Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.22698166666667,
-      "lon": 6.6872283333333336,
-      "speedKnots": 0,
-      "courseDeg": 114.7,
-      "headingDeg": 236,
-      "timestampUtc": "2026-07-07 21:49:35.342559613 +0000 UTC"
+      "lat": 43.435026666666666,
+      "lon": 6.972455,
+      "speedKnots": 8.9,
+      "courseDeg": 53,
+      "headingDeg": 52,
+      "timestampUtc": "2026-07-09 04:16:07.755816873 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.585885,
-      "lon": 7.144193333333333,
-      "speedKnots": 0,
-      "courseDeg": 188.4,
-      "headingDeg": 10,
-      "timestampUtc": "2026-07-09 00:09:36.997152853 +0000 UTC"
+      "lat": 43.58080666666667,
+      "lon": 7.153771666666667,
+      "speedKnots": 9.1,
+      "courseDeg": 133.2,
+      "headingDeg": 132,
+      "timestampUtc": "2026-07-09 04:16:55.207809503 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.36525833333334,
-      "lon": 6.199726666666667,
+      "lat": 60.413583333333335,
+      "lon": 5.311463333333333,
       "speedKnots": 0,
-      "courseDeg": 225.7,
-      "headingDeg": 74,
-      "timestampUtc": "2026-07-06 02:00:49.839835123 +0000 UTC"
+      "courseDeg": 96.3,
+      "headingDeg": 167,
+      "timestampUtc": "2026-07-09 04:16:05.300718814 +0000 UTC"
     },
     {
       "mmsi": "538071262",
