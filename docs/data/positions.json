@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T18:10:38.564Z",
+  "generatedAt": "2026-07-09T20:03:23.828Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -84,12 +84,12 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.746715,
-      "lon": 7.459325000000001,
-      "speedKnots": 0,
-      "courseDeg": 139.6,
-      "headingDeg": 63,
-      "timestampUtc": "2026-07-09 00:09:12.6628409 +0000 UTC"
+      "lat": 43.743986666666665,
+      "lon": 7.634363333333334,
+      "speedKnots": 14.9,
+      "courseDeg": 85.4,
+      "headingDeg": 81,
+      "timestampUtc": "2026-07-09 20:02:36.392035789 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -190,6 +190,16 @@
       "courseDeg": 85.2,
       "headingDeg": 87,
       "timestampUtc": "2026-07-09 16:15:26.712096843 +0000 UTC"
+    },
+    {
+      "mmsi": "319093200",
+      "name": "MOONSTONE",
+      "lat": 41.489448333333335,
+      "lon": -71.32402333333333,
+      "speedKnots": 0,
+      "courseDeg": 1.9,
+      "headingDeg": 173,
+      "timestampUtc": "2026-07-09 20:02:17.699281331 +0000 UTC"
     }
   ]
 }
