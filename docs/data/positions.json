@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T22:55:04.753Z",
+  "generatedAt": "2026-07-09T23:58:23.090Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -74,22 +74,22 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.660605000000004,
-      "lon": 13.728478333333333,
-      "speedKnots": 0,
-      "courseDeg": 252.3,
-      "headingDeg": 204,
-      "timestampUtc": "2026-07-08 11:29:06.399183016 +0000 UTC"
+      "lat": 45.660525,
+      "lon": 13.728145000000001,
+      "speedKnots": 0.1,
+      "courseDeg": 199,
+      "headingDeg": 139,
+      "timestampUtc": "2026-07-09 23:56:59.108722632 +0000 UTC"
     },
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.818725,
-      "lon": 8.59707,
-      "speedKnots": 14.5,
-      "courseDeg": 84.3,
-      "headingDeg": 81,
-      "timestampUtc": "2026-07-09 22:54:35.178815928 +0000 UTC"
+      "lat": 43.84574333333333,
+      "lon": 8.954556666666667,
+      "speedKnots": 14.9,
+      "courseDeg": 84.2,
+      "headingDeg": 82,
+      "timestampUtc": "2026-07-09 23:58:17.449102327 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.717108333333336,
-      "lon": 14.474748333333334,
+      "lat": 40.717105,
+      "lon": 14.474756666666668,
       "speedKnots": 0,
-      "courseDeg": 291.5,
-      "headingDeg": 293,
-      "timestampUtc": "2026-07-09 18:09:28.306675095 +0000 UTC"
+      "courseDeg": 253.7,
+      "headingDeg": 292,
+      "timestampUtc": "2026-07-09 23:57:33.125400336 +0000 UTC"
     },
     {
       "mmsi": "538071689",
