@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T10:45:24.049Z",
+  "generatedAt": "2026-07-09T13:38:03.803Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.30598833333333,
-      "lon": 5.278881666666666,
-      "speedKnots": 9.1,
-      "courseDeg": 194.8,
-      "headingDeg": 201,
-      "timestampUtc": "2026-07-08 18:13:13.856974571 +0000 UTC"
+      "lat": 43.12976666666667,
+      "lon": 5.76339,
+      "speedKnots": 0.1,
+      "courseDeg": 337.1,
+      "headingDeg": 203,
+      "timestampUtc": "2026-07-09 13:37:19.67928548 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.413583333333335,
-      "lon": 5.311463333333333,
+      "lat": 60.397526666666664,
+      "lon": 5.315718333333334,
       "speedKnots": 0,
-      "courseDeg": 96.3,
-      "headingDeg": 167,
-      "timestampUtc": "2026-07-09 04:16:05.300718814 +0000 UTC"
+      "courseDeg": 188.3,
+      "headingDeg": 188,
+      "timestampUtc": "2026-07-09 13:37:51.014399672 +0000 UTC"
     },
     {
       "mmsi": "538071262",
