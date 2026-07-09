@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:17:00.960Z",
+  "generatedAt": "2026-07-09T07:52:35.598Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.522193333333334,
-      "lon": 6.95103,
-      "speedKnots": 0,
-      "courseDeg": 55.7,
-      "headingDeg": 114,
-      "timestampUtc": "2026-07-08 20:55:05.227191281 +0000 UTC"
+      "lat": 43.522055,
+      "lon": 6.950713333333334,
+      "speedKnots": 0.1,
+      "courseDeg": 234.9,
+      "headingDeg": 142,
+      "timestampUtc": "2026-07-09 07:52:04.535949336 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -164,12 +164,12 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 38.26215333333334,
-      "lon": 21.469231666666666,
-      "speedKnots": 10.4,
-      "courseDeg": 72,
-      "headingDeg": 68,
-      "timestampUtc": "2026-07-08 19:55:57.61932072 +0000 UTC"
+      "lat": 37.798840000000006,
+      "lon": 23.493290000000002,
+      "speedKnots": 15.5,
+      "courseDeg": 105.9,
+      "headingDeg": 105,
+      "timestampUtc": "2026-07-09 07:51:07.093670579 +0000 UTC"
     },
     {
       "mmsi": "319242300",
