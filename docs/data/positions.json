@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T23:58:23.090Z",
+  "generatedAt": "2026-07-10T02:15:31.412Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.435026666666666,
-      "lon": 6.972455,
-      "speedKnots": 8.9,
-      "courseDeg": 53,
-      "headingDeg": 52,
-      "timestampUtc": "2026-07-09 04:16:07.755816873 +0000 UTC"
+      "lat": 43.54875333333334,
+      "lon": 7.110251666666667,
+      "speedKnots": 0,
+      "courseDeg": 262.7,
+      "headingDeg": 30,
+      "timestampUtc": "2026-07-10 02:14:14.208011587 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -124,22 +124,22 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.69880166666667,
-      "lon": 7.345778333333333,
-      "speedKnots": 0.3,
-      "courseDeg": 184,
-      "headingDeg": 96,
-      "timestampUtc": "2026-07-09 22:53:47.082169635 +0000 UTC"
+      "lat": 43.698928333333335,
+      "lon": 7.345963333333333,
+      "speedKnots": 0.2,
+      "courseDeg": 11,
+      "headingDeg": 93,
+      "timestampUtc": "2026-07-10 02:14:48.157440031 +0000 UTC"
     },
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.397526666666664,
-      "lon": 5.315718333333334,
+      "lat": 60.926320000000004,
+      "lon": 4.897405,
       "speedKnots": 0,
-      "courseDeg": 188.3,
-      "headingDeg": 188,
-      "timestampUtc": "2026-07-09 13:37:51.014399672 +0000 UTC"
+      "courseDeg": 186.4,
+      "headingDeg": 343,
+      "timestampUtc": "2026-07-10 02:14:03.210166533 +0000 UTC"
     },
     {
       "mmsi": "538071262",
