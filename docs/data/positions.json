@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T15:09:18.781Z",
+  "generatedAt": "2026-07-10T17:06:59.748Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.72179833333333,
-      "lon": 20.99729,
-      "speedKnots": 0.7,
-      "courseDeg": 289,
-      "headingDeg": 261,
-      "timestampUtc": "2026-07-10 09:53:59.878284845 +0000 UTC"
+      "lat": 38.02938166666667,
+      "lon": 20.89359,
+      "speedKnots": 11.8,
+      "courseDeg": 347,
+      "headingDeg": 347,
+      "timestampUtc": "2026-07-10 17:06:04.878881425 +0000 UTC"
     },
     {
       "mmsi": "228456700",
