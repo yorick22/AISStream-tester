@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T12:19:39.618Z",
+  "generatedAt": "2026-07-10T15:09:18.781Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.926320000000004,
-      "lon": 4.897405,
-      "speedKnots": 0,
-      "courseDeg": 186.4,
-      "headingDeg": 343,
-      "timestampUtc": "2026-07-10 02:14:03.210166533 +0000 UTC"
+      "lat": 60.92600166666667,
+      "lon": 4.897823333333333,
+      "speedKnots": 0.6,
+      "courseDeg": 235.5,
+      "headingDeg": 300,
+      "timestampUtc": "2026-07-10 15:08:06.98885996 +0000 UTC"
     },
     {
       "mmsi": "538071262",
