@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T18:44:18.869Z",
+  "generatedAt": "2026-07-10T20:07:01.367Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.64216333333333,
-      "lon": 14.39083,
-      "speedKnots": 0,
-      "courseDeg": 89,
-      "headingDeg": 293,
-      "timestampUtc": "2026-07-05 05:27:28.663354334 +0000 UTC"
+      "lat": 40.56123,
+      "lon": 14.241253333333333,
+      "speedKnots": 5.6,
+      "courseDeg": 283,
+      "headingDeg": 282,
+      "timestampUtc": "2026-07-10 20:06:46.566681112 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.07163,
-      "lon": 6.349506666666667,
-      "speedKnots": 10.4,
-      "courseDeg": 68.2,
-      "headingDeg": 68,
-      "timestampUtc": "2026-07-10 18:43:18.677989728 +0000 UTC"
+      "lat": 43.14433833333333,
+      "lon": 6.61042,
+      "speedKnots": 5,
+      "courseDeg": 68,
+      "headingDeg": 67,
+      "timestampUtc": "2026-07-10 20:06:28.075667994 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -124,12 +124,12 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.71044333333334,
-      "lon": 7.359938333333333,
-      "speedKnots": 0.7,
-      "courseDeg": 337,
-      "headingDeg": 70,
-      "timestampUtc": "2026-07-10 12:18:58.850939441 +0000 UTC"
+      "lat": 43.75230333333333,
+      "lon": 7.4652416666666666,
+      "speedKnots": 0.3,
+      "courseDeg": 113,
+      "headingDeg": 149,
+      "timestampUtc": "2026-07-10 20:06:14.37783243 +0000 UTC"
     },
     {
       "mmsi": "319173300",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 41.81546166666667,
-      "lon": 8.506596666666667,
-      "speedKnots": 12.9,
-      "courseDeg": 331.1,
-      "headingDeg": 332,
-      "timestampUtc": "2026-07-10 18:42:50.428976472 +0000 UTC"
+      "lat": 42.080486666666665,
+      "lon": 8.310618333333332,
+      "speedKnots": 13.1,
+      "courseDeg": 333.7,
+      "headingDeg": 331,
+      "timestampUtc": "2026-07-10 20:05:41.502208476 +0000 UTC"
     }
   ]
 }
