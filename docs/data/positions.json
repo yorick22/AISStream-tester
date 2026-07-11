@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T20:15:23.287Z",
+  "generatedAt": "2026-07-11T21:07:48.979Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.56406333333334,
-      "lon": 14.266036666666668,
-      "speedKnots": 10.9,
-      "courseDeg": 273.9,
-      "headingDeg": 272,
-      "timestampUtc": "2026-07-11 17:13:35.32731458 +0000 UTC"
+      "lat": 40.56299833333333,
+      "lon": 14.227838333333333,
+      "speedKnots": 0.2,
+      "courseDeg": 11.5,
+      "headingDeg": 75,
+      "timestampUtc": "2026-07-11 21:06:57.837052555 +0000 UTC"
     },
     {
       "mmsi": "538071689",
