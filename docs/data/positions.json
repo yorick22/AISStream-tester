@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:25:51.352Z",
+  "generatedAt": "2026-07-11T08:19:01.292Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.276055,
-      "lon": 6.65197,
-      "speedKnots": 0,
-      "courseDeg": 62.4,
-      "headingDeg": 29,
-      "timestampUtc": "2026-07-11 00:57:19.643183905 +0000 UTC"
+      "lat": 43.276158333333335,
+      "lon": 6.651586666666666,
+      "speedKnots": 0.2,
+      "courseDeg": 166.5,
+      "headingDeg": 77,
+      "timestampUtc": "2026-07-11 08:17:48.763152559 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56609666666667,
-      "lon": 2.640763333333333,
-      "speedKnots": 0,
-      "courseDeg": 190.1,
-      "headingDeg": 236,
-      "timestampUtc": "2026-07-10 22:30:50.168800003 +0000 UTC"
+      "lat": 39.54029,
+      "lon": 2.6307933333333335,
+      "speedKnots": 11.7,
+      "courseDeg": 238.6,
+      "headingDeg": 237,
+      "timestampUtc": "2026-07-11 08:18:21.25755288 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.51939166666667,
-      "lon": 2.6498216666666665,
-      "speedKnots": 10,
-      "courseDeg": 26.4,
-      "headingDeg": 26,
-      "timestampUtc": "2026-07-11 04:08:20.416660786 +0000 UTC"
+      "lat": 39.563563333333335,
+      "lon": 2.637225,
+      "speedKnots": 0,
+      "courseDeg": 328.4,
+      "headingDeg": 328,
+      "timestampUtc": "2026-07-11 08:17:58.16506642 +0000 UTC"
     },
     {
       "mmsi": "319093200",
