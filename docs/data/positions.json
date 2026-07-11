@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-11T04:09:15.697Z",
+  "generatedAt": "2026-07-11T06:25:51.352Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
       "lat": 41.36983333333333,
-      "lon": 2.1847333333333334,
+      "lon": 2.1847166666666666,
       "speedKnots": 0,
-      "courseDeg": 185.1,
-      "headingDeg": 185,
-      "timestampUtc": "2026-07-08 18:13:42.649170738 +0000 UTC"
+      "courseDeg": 185.9,
+      "headingDeg": 186,
+      "timestampUtc": "2026-07-11 06:25:43.713604746 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.61623,
-      "lon": 7.527571666666666,
-      "speedKnots": 9.8,
-      "courseDeg": 251.9,
-      "headingDeg": 251,
-      "timestampUtc": "2026-07-11 04:08:57.272115861 +0000 UTC"
+      "lat": 43.55139833333333,
+      "lon": 7.096441666666666,
+      "speedKnots": 0.4,
+      "courseDeg": 0.3,
+      "headingDeg": 35,
+      "timestampUtc": "2026-07-11 06:25:47.750201955 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.92600166666667,
-      "lon": 4.897823333333333,
-      "speedKnots": 0.6,
-      "courseDeg": 235.5,
-      "headingDeg": 300,
-      "timestampUtc": "2026-07-10 15:08:06.98885996 +0000 UTC"
+      "lat": 61.216535,
+      "lon": 6.51074,
+      "speedKnots": 0,
+      "courseDeg": 282.2,
+      "headingDeg": 98,
+      "timestampUtc": "2026-07-11 06:25:44.117856323 +0000 UTC"
     },
     {
       "mmsi": "538071262",
