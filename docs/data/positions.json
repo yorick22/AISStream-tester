@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-11T16:10:44.887Z",
+  "generatedAt": "2026-07-11T17:14:07.883Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
       "lat": 41.36983333333333,
-      "lon": 2.1847333333333334,
+      "lon": 2.1847166666666666,
       "speedKnots": 0,
-      "courseDeg": 185.7,
+      "courseDeg": 186.2,
       "headingDeg": 186,
-      "timestampUtc": "2026-07-11 15:13:44.007098996 +0000 UTC"
+      "timestampUtc": "2026-07-11 17:13:43.664482788 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 38.30614666666667,
-      "lon": 20.68336833333333,
-      "speedKnots": 12.5,
-      "courseDeg": 325,
-      "headingDeg": 326,
-      "timestampUtc": "2026-07-10 18:44:13.339492501 +0000 UTC"
+      "lat": 38.520035,
+      "lon": 20.59165833333333,
+      "speedKnots": 12.7,
+      "courseDeg": 47,
+      "headingDeg": 48,
+      "timestampUtc": "2026-07-11 17:13:38.92065329 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.717105,
-      "lon": 14.474756666666668,
-      "speedKnots": 0,
-      "courseDeg": 253.7,
-      "headingDeg": 292,
-      "timestampUtc": "2026-07-09 23:57:33.125400336 +0000 UTC"
+      "lat": 40.56406333333334,
+      "lon": 14.266036666666668,
+      "speedKnots": 10.9,
+      "courseDeg": 273.9,
+      "headingDeg": 272,
+      "timestampUtc": "2026-07-11 17:13:35.32731458 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 61.21655166666667,
-      "lon": 6.509946666666666,
-      "speedKnots": 0,
-      "courseDeg": 222.6,
-      "headingDeg": 74,
-      "timestampUtc": "2026-07-11 10:52:47.936172364 +0000 UTC"
+      "lat": 61.09685,
+      "lon": 6.947193333333333,
+      "speedKnots": 13.6,
+      "courseDeg": 117.1,
+      "headingDeg": 112,
+      "timestampUtc": "2026-07-11 17:13:02.820808329 +0000 UTC"
     },
     {
       "mmsi": "538071262",
