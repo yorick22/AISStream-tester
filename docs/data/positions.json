@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T12:40:43.343Z",
+  "generatedAt": "2026-07-11T14:09:39.840Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -14,12 +14,12 @@
     {
       "mmsi": "319099400",
       "name": "SAMURAI",
-      "lat": 40.56123,
-      "lon": 14.241253333333333,
-      "speedKnots": 5.6,
-      "courseDeg": 283,
-      "headingDeg": 282,
-      "timestampUtc": "2026-07-10 20:06:46.566681112 +0000 UTC"
+      "lat": 40.826993333333334,
+      "lon": 14.225333333333333,
+      "speedKnots": 0,
+      "courseDeg": 315,
+      "headingDeg": 330,
+      "timestampUtc": "2026-07-11 14:09:17.926604672 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -74,12 +74,12 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.66040666666667,
-      "lon": 13.728211666666665,
-      "speedKnots": 0.1,
-      "courseDeg": 211,
-      "headingDeg": 139,
-      "timestampUtc": "2026-07-11 00:56:58.073796286 +0000 UTC"
+      "lat": 45.65988,
+      "lon": 13.729725,
+      "speedKnots": 0,
+      "courseDeg": 301.5,
+      "headingDeg": 287,
+      "timestampUtc": "2026-07-11 14:08:58.198462554 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.699801666666666,
-      "lon": 7.315259999999999,
-      "speedKnots": 0,
-      "courseDeg": 26.4,
-      "headingDeg": 5,
-      "timestampUtc": "2026-07-10 21:19:01.656476886 +0000 UTC"
+      "lat": 43.54891333333333,
+      "lon": 7.110609999999999,
+      "speedKnots": 0.2,
+      "courseDeg": 339.3,
+      "headingDeg": 18,
+      "timestampUtc": "2026-07-11 14:08:21.82294157 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -164,22 +164,22 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.80392333333334,
-      "lon": 23.77316666666667,
+      "lat": 37.803905,
+      "lon": 23.773176666666664,
       "speedKnots": 0,
       "courseDeg": 311.7,
-      "headingDeg": 114,
-      "timestampUtc": "2026-07-09 16:15:09.182534675 +0000 UTC"
+      "headingDeg": 113,
+      "timestampUtc": "2026-07-11 14:09:33.875521379 +0000 UTC"
     },
     {
       "mmsi": "319242300",
       "name": "KENSHO",
-      "lat": 38.86673833333334,
-      "lon": 1.1886683333333332,
-      "speedKnots": 2.8,
-      "courseDeg": 56.3,
-      "headingDeg": 39,
-      "timestampUtc": "2026-07-08 15:23:53.362761374 +0000 UTC"
+      "lat": 39.06816166666667,
+      "lon": 1.3798166666666667,
+      "speedKnots": 0,
+      "courseDeg": 126.2,
+      "headingDeg": 303,
+      "timestampUtc": "2026-07-11 14:09:14.726255988 +0000 UTC"
     },
     {
       "mmsi": "319129000",
