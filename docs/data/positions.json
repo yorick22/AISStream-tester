@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T10:53:52.936Z",
+  "generatedAt": "2026-07-11T11:43:44.925Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.69206666666666,
-      "lon": 7.313815,
-      "speedKnots": 0,
-      "courseDeg": 20.3,
-      "headingDeg": 91,
-      "timestampUtc": "2026-07-11 09:55:16.278443141 +0000 UTC"
+      "lat": 43.692045,
+      "lon": 7.313396666666667,
+      "speedKnots": 0.4,
+      "courseDeg": 18.1,
+      "headingDeg": 64,
+      "timestampUtc": "2026-07-11 11:43:17.889286001 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.55139833333333,
-      "lon": 7.096441666666666,
-      "speedKnots": 0.4,
-      "courseDeg": 0.3,
-      "headingDeg": 35,
-      "timestampUtc": "2026-07-11 06:25:47.750201955 +0000 UTC"
+      "lat": 43.54819833333333,
+      "lon": 7.1058933333333325,
+      "speedKnots": 0.3,
+      "courseDeg": 167.1,
+      "headingDeg": 83,
+      "timestampUtc": "2026-07-11 11:43:01.004522825 +0000 UTC"
     },
     {
       "mmsi": "319149800",
