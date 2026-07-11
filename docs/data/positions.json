@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T08:19:01.292Z",
+  "generatedAt": "2026-07-11T09:55:47.265Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.54875333333334,
-      "lon": 7.110251666666667,
+      "lat": 43.69206666666666,
+      "lon": 7.313815,
       "speedKnots": 0,
-      "courseDeg": 262.7,
-      "headingDeg": 30,
-      "timestampUtc": "2026-07-10 02:14:14.208011587 +0000 UTC"
+      "courseDeg": 20.3,
+      "headingDeg": 91,
+      "timestampUtc": "2026-07-11 09:55:16.278443141 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 61.216535,
-      "lon": 6.51074,
+      "lat": 61.216685,
+      "lon": 6.509991666666666,
       "speedKnots": 0,
-      "courseDeg": 282.2,
+      "courseDeg": 222.6,
       "headingDeg": 98,
-      "timestampUtc": "2026-07-11 06:25:44.117856323 +0000 UTC"
+      "timestampUtc": "2026-07-11 09:55:43.598212441 +0000 UTC"
     },
     {
       "mmsi": "538071262",
