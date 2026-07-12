@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T19:49:03.793Z",
+  "generatedAt": "2026-07-12T20:35:43.424Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -94,22 +94,22 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.53442,
-      "lon": 7.052178333333333,
-      "speedKnots": 0.2,
-      "courseDeg": 353.9,
-      "headingDeg": 86,
-      "timestampUtc": "2026-07-12 16:44:15.219461115 +0000 UTC"
+      "lat": 43.53451,
+      "lon": 7.052333333333333,
+      "speedKnots": 0,
+      "courseDeg": 174.3,
+      "headingDeg": 130,
+      "timestampUtc": "2026-07-12 20:35:16.657555245 +0000 UTC"
     },
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.28765,
-      "lon": 6.645560000000001,
-      "speedKnots": 12.4,
-      "courseDeg": 254.9,
-      "headingDeg": 255,
-      "timestampUtc": "2026-07-12 14:47:05.088160994 +0000 UTC"
+      "lat": 43.333909999999996,
+      "lon": 6.7768,
+      "speedKnots": 15.5,
+      "courseDeg": 59.1,
+      "headingDeg": 60,
+      "timestampUtc": "2026-07-12 20:35:32.194745936 +0000 UTC"
     },
     {
       "mmsi": "247092700",
