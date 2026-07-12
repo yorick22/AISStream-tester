@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T12:14:34.774Z",
+  "generatedAt": "2026-07-12T13:58:13.452Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.29613666666667,
-      "lon": 6.840321666666667,
-      "speedKnots": 9.5,
-      "courseDeg": 209.7,
-      "headingDeg": 208,
-      "timestampUtc": "2026-07-12 03:53:48.942820333 +0000 UTC"
+      "lat": 43.22703,
+      "lon": 6.6833583333333335,
+      "speedKnots": 0,
+      "courseDeg": 139.1,
+      "headingDeg": 84,
+      "timestampUtc": "2026-07-12 13:57:55.744816446 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -74,12 +74,12 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.659886666666665,
-      "lon": 13.72725,
+      "lat": 45.65998166666667,
+      "lon": 13.729610000000001,
       "speedKnots": 0.1,
-      "courseDeg": 294.9,
-      "headingDeg": 114,
-      "timestampUtc": "2026-07-11 23:08:57.679610797 +0000 UTC"
+      "courseDeg": 49.8,
+      "headingDeg": 270,
+      "timestampUtc": "2026-07-12 13:56:58.300080731 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -94,22 +94,22 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.54840166666667,
-      "lon": 7.105861666666667,
-      "speedKnots": 0.3,
-      "courseDeg": 3.7,
-      "headingDeg": 54,
-      "timestampUtc": "2026-07-11 16:10:04.46694245 +0000 UTC"
+      "lat": 43.54344833333334,
+      "lon": 7.075231666666666,
+      "speedKnots": 7,
+      "courseDeg": 222.7,
+      "headingDeg": 214,
+      "timestampUtc": "2026-07-12 13:57:54.969340429 +0000 UTC"
     },
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.549125000000004,
-      "lon": 7.110576666666666,
-      "speedKnots": 0.2,
-      "courseDeg": 203.8,
-      "headingDeg": 118,
-      "timestampUtc": "2026-07-12 12:14:24.869197674 +0000 UTC"
+      "lat": 43.389693333333334,
+      "lon": 6.892581666666667,
+      "speedKnots": 15.7,
+      "courseDeg": 237.2,
+      "headingDeg": 238,
+      "timestampUtc": "2026-07-12 13:56:46.982723252 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.563588333333335,
-      "lon": 2.6372500000000003,
+      "lat": 39.56356666666667,
+      "lon": 2.637268333333333,
       "speedKnots": 0,
-      "courseDeg": 328.8,
-      "headingDeg": 328,
-      "timestampUtc": "2026-07-11 19:24:03.35646806 +0000 UTC"
+      "courseDeg": 329.1,
+      "headingDeg": 329,
+      "timestampUtc": "2026-07-12 13:57:02.68681973 +0000 UTC"
     },
     {
       "mmsi": "319093200",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.58673833333333,
-      "lon": 7.130593333333334,
-      "speedKnots": 0,
-      "courseDeg": 151.9,
-      "headingDeg": 306,
-      "timestampUtc": "2026-07-12 11:30:19.841247792 +0000 UTC"
+      "lat": 43.591275,
+      "lon": 7.131635,
+      "speedKnots": 3.4,
+      "courseDeg": 6.5,
+      "headingDeg": 29,
+      "timestampUtc": "2026-07-12 13:56:43.771679594 +0000 UTC"
     },
     {
       "mmsi": "229817000",
@@ -230,6 +230,16 @@
       "courseDeg": 258.5,
       "headingDeg": 315,
       "timestampUtc": "2026-07-11 12:40:30.997805503 +0000 UTC"
+    },
+    {
+      "mmsi": "256817000",
+      "name": "THIS IS IT I",
+      "lat": 37.898808333333335,
+      "lon": 23.67734,
+      "speedKnots": 14,
+      "courseDeg": 339.2,
+      "headingDeg": 341,
+      "timestampUtc": "2026-07-12 13:57:19.509307047 +0000 UTC"
     }
   ]
 }
