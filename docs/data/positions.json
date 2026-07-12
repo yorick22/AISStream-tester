@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T17:43:28.249Z",
+  "generatedAt": "2026-07-12T18:37:55.454Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,22 +44,22 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.276158333333335,
-      "lon": 6.651586666666666,
-      "speedKnots": 0.2,
-      "courseDeg": 166.5,
-      "headingDeg": 77,
-      "timestampUtc": "2026-07-11 08:17:48.763152559 +0000 UTC"
+      "lat": 43.276268333333334,
+      "lon": 6.652916666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 14.5,
+      "headingDeg": 26,
+      "timestampUtc": "2026-07-12 18:36:57.920787275 +0000 UTC"
     },
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.52212833333333,
-      "lon": 6.950918333333333,
-      "speedKnots": 0.1,
+      "lat": 43.52193833333333,
+      "lon": 6.950681666666667,
+      "speedKnots": 0,
       "courseDeg": 42.5,
-      "headingDeg": 142,
-      "timestampUtc": "2026-07-12 16:43:30.490708492 +0000 UTC"
+      "headingDeg": 114,
+      "timestampUtc": "2026-07-12 18:37:27.887812531 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.562731666666664,
-      "lon": 14.22788,
-      "speedKnots": 0,
-      "courseDeg": 352.8,
-      "headingDeg": 64,
-      "timestampUtc": "2026-07-12 11:30:59.104420947 +0000 UTC"
+      "lat": 40.74995,
+      "lon": 13.706548333333334,
+      "speedKnots": 10.9,
+      "courseDeg": 300.6,
+      "headingDeg": 300,
+      "timestampUtc": "2026-07-12 18:37:17.849485577 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 61.09685,
-      "lon": 6.947193333333333,
-      "speedKnots": 13.6,
-      "courseDeg": 117.1,
-      "headingDeg": 112,
-      "timestampUtc": "2026-07-11 17:13:02.820808329 +0000 UTC"
+      "lat": 60.87727833333334,
+      "lon": 7.134175,
+      "speedKnots": 0,
+      "courseDeg": 89.1,
+      "headingDeg": 133,
+      "timestampUtc": "2026-07-12 18:37:07.210592658 +0000 UTC"
     },
     {
       "mmsi": "538071262",
