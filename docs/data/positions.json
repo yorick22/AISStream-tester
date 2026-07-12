@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T00:09:10.437Z",
+  "generatedAt": "2026-07-12T03:54:01.149Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.67906,
-      "lon": 7.310428333333333,
-      "speedKnots": 5.3,
-      "courseDeg": 214,
-      "headingDeg": 212,
-      "timestampUtc": "2026-07-11 12:40:23.429866995 +0000 UTC"
+      "lat": 43.29613666666667,
+      "lon": 6.840321666666667,
+      "speedKnots": 9.5,
+      "courseDeg": 209.7,
+      "headingDeg": 208,
+      "timestampUtc": "2026-07-12 03:53:48.942820333 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -194,12 +194,12 @@
     {
       "mmsi": "319093200",
       "name": "MOONSTONE",
-      "lat": 41.489445,
-      "lon": -71.32401833333333,
+      "lat": 41.489435,
+      "lon": -71.32400833333332,
       "speedKnots": 0,
       "courseDeg": 1.9,
-      "headingDeg": 173,
-      "timestampUtc": "2026-07-10 09:53:28.649533821 +0000 UTC"
+      "headingDeg": 174,
+      "timestampUtc": "2026-07-12 03:53:35.308635969 +0000 UTC"
     },
     {
       "mmsi": "319304500",
