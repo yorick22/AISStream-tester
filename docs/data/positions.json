@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T13:58:13.452Z",
+  "generatedAt": "2026-07-12T14:47:56.844Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.22703,
-      "lon": 6.6833583333333335,
-      "speedKnots": 0,
-      "courseDeg": 139.1,
-      "headingDeg": 84,
-      "timestampUtc": "2026-07-12 13:57:55.744816446 +0000 UTC"
+      "lat": 43.226985,
+      "lon": 6.68343,
+      "speedKnots": 0.1,
+      "courseDeg": 147.9,
+      "headingDeg": 93,
+      "timestampUtc": "2026-07-12 14:47:42.884883952 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.521269999999994,
-      "lon": 6.950923333333334,
-      "speedKnots": 0,
-      "courseDeg": 127.3,
-      "headingDeg": 43,
-      "timestampUtc": "2026-07-10 21:19:13.919367951 +0000 UTC"
+      "lat": 43.52205666666667,
+      "lon": 6.950756666666666,
+      "speedKnots": 0.1,
+      "courseDeg": 207.4,
+      "headingDeg": 133,
+      "timestampUtc": "2026-07-12 14:46:28.869593358 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -84,32 +84,32 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 43.84574333333333,
-      "lon": 8.954556666666667,
-      "speedKnots": 14.9,
-      "courseDeg": 84.2,
-      "headingDeg": 82,
-      "timestampUtc": "2026-07-09 23:58:17.449102327 +0000 UTC"
+      "lat": 43.660471666666666,
+      "lon": 9.786900000000001,
+      "speedKnots": 15.9,
+      "courseDeg": 189.6,
+      "headingDeg": 190,
+      "timestampUtc": "2026-07-12 14:47:40.265119175 +0000 UTC"
     },
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.54344833333334,
-      "lon": 7.075231666666666,
-      "speedKnots": 7,
-      "courseDeg": 222.7,
-      "headingDeg": 214,
-      "timestampUtc": "2026-07-12 13:57:54.969340429 +0000 UTC"
+      "lat": 43.53433333333333,
+      "lon": 7.052231666666667,
+      "speedKnots": 0,
+      "courseDeg": 198.7,
+      "headingDeg": 99,
+      "timestampUtc": "2026-07-12 14:47:14.098858772 +0000 UTC"
     },
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.389693333333334,
-      "lon": 6.892581666666667,
-      "speedKnots": 15.7,
-      "courseDeg": 237.2,
-      "headingDeg": 238,
-      "timestampUtc": "2026-07-12 13:56:46.982723252 +0000 UTC"
+      "lat": 43.28765,
+      "lon": 6.645560000000001,
+      "speedKnots": 12.4,
+      "courseDeg": 254.9,
+      "headingDeg": 255,
+      "timestampUtc": "2026-07-12 14:47:05.088160994 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -234,12 +234,12 @@
     {
       "mmsi": "256817000",
       "name": "THIS IS IT I",
-      "lat": 37.898808333333335,
-      "lon": 23.67734,
-      "speedKnots": 14,
-      "courseDeg": 339.2,
-      "headingDeg": 341,
-      "timestampUtc": "2026-07-12 13:57:19.509307047 +0000 UTC"
+      "lat": 37.938401666666664,
+      "lon": 23.66672833333333,
+      "speedKnots": 0,
+      "courseDeg": 210.2,
+      "headingDeg": 28,
+      "timestampUtc": "2026-07-12 14:46:54.569948173 +0000 UTC"
     }
   ]
 }
