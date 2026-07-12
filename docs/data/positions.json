@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T22:25:44.380Z",
+  "generatedAt": "2026-07-12T23:15:00.137Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 38.26152833333333,
-      "lon": 21.349721666666667,
-      "speedKnots": 13.6,
-      "courseDeg": 86.2,
-      "headingDeg": 86,
-      "timestampUtc": "2026-07-12 22:25:16.023044998 +0000 UTC"
+      "lat": 38.27958666666667,
+      "lon": 21.578186666666667,
+      "speedKnots": 13.4,
+      "courseDeg": 78.4,
+      "headingDeg": 77,
+      "timestampUtc": "2026-07-12 23:13:39.06037556 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.52193833333333,
-      "lon": 6.950681666666667,
+      "lat": 43.52122,
+      "lon": 6.951115,
       "speedKnots": 0,
-      "courseDeg": 42.5,
-      "headingDeg": 114,
-      "timestampUtc": "2026-07-12 18:37:27.887812531 +0000 UTC"
+      "courseDeg": 79.8,
+      "headingDeg": 18,
+      "timestampUtc": "2026-07-12 23:13:31.9038931 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.80153166666666,
-      "lon": 13.441535,
-      "speedKnots": 2.1,
-      "courseDeg": 238.6,
-      "headingDeg": 269,
-      "timestampUtc": "2026-07-12 19:48:55.425675561 +0000 UTC"
+      "lat": 41.137389999999996,
+      "lon": 12.948588333333333,
+      "speedKnots": 9.6,
+      "courseDeg": 304.4,
+      "headingDeg": 304,
+      "timestampUtc": "2026-07-12 23:14:38.568445421 +0000 UTC"
     },
     {
       "mmsi": "538071689",
