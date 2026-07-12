@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T18:37:55.454Z",
+  "generatedAt": "2026-07-12T19:49:03.793Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,22 +34,22 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 38.60089833333333,
-      "lon": 20.81278166666667,
-      "speedKnots": 12.7,
-      "courseDeg": 146,
-      "headingDeg": 146,
-      "timestampUtc": "2026-07-12 15:47:37.339444063 +0000 UTC"
+      "lat": 38.381901666666664,
+      "lon": 20.694458333333333,
+      "speedKnots": 5,
+      "courseDeg": 7.6,
+      "headingDeg": 5,
+      "timestampUtc": "2026-07-12 19:48:49.615957303 +0000 UTC"
     },
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.276268333333334,
-      "lon": 6.652916666666667,
-      "speedKnots": 0.1,
-      "courseDeg": 14.5,
-      "headingDeg": 26,
-      "timestampUtc": "2026-07-12 18:36:57.920787275 +0000 UTC"
+      "lat": 43.27635,
+      "lon": 6.65289,
+      "speedKnots": 0,
+      "courseDeg": 59.2,
+      "headingDeg": 43,
+      "timestampUtc": "2026-07-12 19:48:57.764421777 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.74995,
-      "lon": 13.706548333333334,
-      "speedKnots": 10.9,
-      "courseDeg": 300.6,
-      "headingDeg": 300,
-      "timestampUtc": "2026-07-12 18:37:17.849485577 +0000 UTC"
+      "lat": 40.80153166666666,
+      "lon": 13.441535,
+      "speedKnots": 2.1,
+      "courseDeg": 238.6,
+      "headingDeg": 269,
+      "timestampUtc": "2026-07-12 19:48:55.425675561 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -184,22 +184,22 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.563575,
-      "lon": 2.637225,
+      "lat": 39.56356666666667,
+      "lon": 2.6372533333333332,
       "speedKnots": 0,
-      "courseDeg": 328.7,
+      "courseDeg": 328.5,
       "headingDeg": 328,
-      "timestampUtc": "2026-07-12 17:42:08.650403349 +0000 UTC"
+      "timestampUtc": "2026-07-12 19:48:07.440211185 +0000 UTC"
     },
     {
       "mmsi": "319093200",
       "name": "MOONSTONE",
-      "lat": 41.489435,
-      "lon": -71.32400833333332,
+      "lat": 41.48946333333333,
+      "lon": -71.32402166666667,
       "speedKnots": 0,
       "courseDeg": 1.9,
       "headingDeg": 174,
-      "timestampUtc": "2026-07-12 03:53:35.308635969 +0000 UTC"
+      "timestampUtc": "2026-07-12 19:47:39.063201892 +0000 UTC"
     },
     {
       "mmsi": "319304500",
