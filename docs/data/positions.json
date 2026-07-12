@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T16:44:33.308Z",
+  "generatedAt": "2026-07-12T17:43:28.249Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -17,9 +17,9 @@
       "lat": 40.826993333333334,
       "lon": 14.225333333333333,
       "speedKnots": 0,
-      "courseDeg": 70,
-      "headingDeg": 331,
-      "timestampUtc": "2026-07-11 23:08:23.087754215 +0000 UTC"
+      "courseDeg": 15,
+      "headingDeg": 333,
+      "timestampUtc": "2026-07-12 17:43:20.050543869 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.56356666666667,
-      "lon": 2.637268333333333,
+      "lat": 39.563575,
+      "lon": 2.637225,
       "speedKnots": 0,
-      "courseDeg": 329.1,
-      "headingDeg": 329,
-      "timestampUtc": "2026-07-12 13:57:02.68681973 +0000 UTC"
+      "courseDeg": 328.7,
+      "headingDeg": 328,
+      "timestampUtc": "2026-07-12 17:42:08.650403349 +0000 UTC"
     },
     {
       "mmsi": "319093200",
