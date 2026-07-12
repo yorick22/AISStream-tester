@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T20:35:43.424Z",
+  "generatedAt": "2026-07-12T21:31:36.140Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,22 +34,22 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 38.381901666666664,
-      "lon": 20.694458333333333,
-      "speedKnots": 5,
-      "courseDeg": 7.6,
-      "headingDeg": 5,
-      "timestampUtc": "2026-07-12 19:48:49.615957303 +0000 UTC"
+      "lat": 38.24928833333333,
+      "lon": 21.096848333333334,
+      "speedKnots": 12.8,
+      "courseDeg": 89.6,
+      "headingDeg": 89,
+      "timestampUtc": "2026-07-12 21:31:30.246533777 +0000 UTC"
     },
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.27635,
-      "lon": 6.65289,
-      "speedKnots": 0,
-      "courseDeg": 59.2,
-      "headingDeg": 43,
-      "timestampUtc": "2026-07-12 19:48:57.764421777 +0000 UTC"
+      "lat": 43.27628666666667,
+      "lon": 6.653161666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 25.4,
+      "headingDeg": 12,
+      "timestampUtc": "2026-07-12 21:30:58.783356524 +0000 UTC"
     },
     {
       "mmsi": "319305700",
