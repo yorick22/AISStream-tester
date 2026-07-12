@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:36:54.361Z",
+  "generatedAt": "2026-07-12T10:14:01.005Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.54029,
-      "lon": 2.6307933333333335,
-      "speedKnots": 11.7,
-      "courseDeg": 238.6,
-      "headingDeg": 237,
-      "timestampUtc": "2026-07-11 08:18:21.25755288 +0000 UTC"
+      "lat": 39.74754666666667,
+      "lon": 2.6170283333333333,
+      "speedKnots": 0,
+      "courseDeg": 341,
+      "headingDeg": 252,
+      "timestampUtc": "2026-07-12 10:13:12.060731785 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 40.56299833333333,
-      "lon": 14.227838333333333,
-      "speedKnots": 0.2,
-      "courseDeg": 11.5,
-      "headingDeg": 75,
-      "timestampUtc": "2026-07-11 21:06:57.837052555 +0000 UTC"
+      "lat": 40.562734999999996,
+      "lon": 14.227891666666666,
+      "speedKnots": 0,
+      "courseDeg": 117.1,
+      "headingDeg": 77,
+      "timestampUtc": "2026-07-12 10:12:56.184597283 +0000 UTC"
     },
     {
       "mmsi": "538071689",
