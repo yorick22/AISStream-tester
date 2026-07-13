@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T00:11:53.120Z",
+  "generatedAt": "2026-07-13T03:57:07.309Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,22 +104,22 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.74323833333334,
-      "lon": 7.449363333333333,
+      "lat": 43.74330333333333,
+      "lon": 7.449433333333333,
       "speedKnots": 0,
       "courseDeg": 248,
-      "headingDeg": 74,
-      "timestampUtc": "2026-07-13 00:11:19.686343599 +0000 UTC"
+      "headingDeg": 80,
+      "timestampUtc": "2026-07-13 03:56:23.82180274 +0000 UTC"
     },
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.137389999999996,
-      "lon": 12.948588333333333,
-      "speedKnots": 9.6,
-      "courseDeg": 304.4,
-      "headingDeg": 304,
-      "timestampUtc": "2026-07-12 23:14:38.568445421 +0000 UTC"
+      "lat": 41.60706666666667,
+      "lon": 12.274448333333334,
+      "speedKnots": 9.2,
+      "courseDeg": 326.6,
+      "headingDeg": 326,
+      "timestampUtc": "2026-07-13 03:55:58.329849073 +0000 UTC"
     },
     {
       "mmsi": "538071689",
