@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:33:59.022Z",
+  "generatedAt": "2026-07-13T22:35:10.619Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.52122,
-      "lon": 6.951115,
+      "lat": 43.52150166666667,
+      "lon": 6.95083,
       "speedKnots": 0,
-      "courseDeg": 79.8,
-      "headingDeg": 18,
-      "timestampUtc": "2026-07-12 23:13:31.9038931 +0000 UTC"
+      "courseDeg": 232.2,
+      "headingDeg": 87,
+      "timestampUtc": "2026-07-13 22:34:34.33472141 +0000 UTC"
     },
     {
       "mmsi": "232205000",
