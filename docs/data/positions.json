@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:36:10.519Z",
+  "generatedAt": "2026-07-13T19:03:31.385Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 38.27958666666667,
-      "lon": 21.578186666666667,
-      "speedKnots": 13.4,
-      "courseDeg": 78.4,
-      "headingDeg": 77,
-      "timestampUtc": "2026-07-12 23:13:39.06037556 +0000 UTC"
+      "lat": 37.791293333333336,
+      "lon": 23.226403333333334,
+      "speedKnots": 13,
+      "courseDeg": 138.8,
+      "headingDeg": 140,
+      "timestampUtc": "2026-07-13 19:02:22.493901176 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -84,22 +84,22 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 42.796730000000004,
-      "lon": 10.234396666666667,
-      "speedKnots": 0.4,
-      "courseDeg": 265.7,
-      "headingDeg": 202,
-      "timestampUtc": "2026-07-13 09:59:49.207366812 +0000 UTC"
+      "lat": 42.79673666666667,
+      "lon": 10.234275,
+      "speedKnots": 0.7,
+      "courseDeg": 79,
+      "headingDeg": 131,
+      "timestampUtc": "2026-07-13 19:02:35.341547709 +0000 UTC"
     },
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.53451,
-      "lon": 7.052333333333333,
+      "lat": 43.583328333333334,
+      "lon": 7.136233333333333,
       "speedKnots": 0,
-      "courseDeg": 174.3,
-      "headingDeg": 130,
-      "timestampUtc": "2026-07-12 20:35:16.657555245 +0000 UTC"
+      "courseDeg": 41.2,
+      "headingDeg": 141,
+      "timestampUtc": "2026-07-13 19:02:56.710516135 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.388758333333335,
-      "lon": 11.204843333333335,
-      "speedKnots": 10.9,
-      "courseDeg": 248.2,
-      "headingDeg": 245,
-      "timestampUtc": "2026-07-13 15:33:55.406977423 +0000 UTC"
+      "lat": 41.14459166666666,
+      "lon": 10.468476666666668,
+      "speedKnots": 11,
+      "courseDeg": 246.6,
+      "headingDeg": 242,
+      "timestampUtc": "2026-07-13 19:03:24.262498011 +0000 UTC"
     },
     {
       "mmsi": "538071689",
