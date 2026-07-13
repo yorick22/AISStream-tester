@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T12:32:34.830Z",
+  "generatedAt": "2026-07-13T15:34:25.852Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.226985,
-      "lon": 6.68343,
-      "speedKnots": 0.1,
-      "courseDeg": 147.9,
-      "headingDeg": 93,
-      "timestampUtc": "2026-07-12 14:47:42.884883952 +0000 UTC"
+      "lat": 43.31732,
+      "lon": 6.6990783333333335,
+      "speedKnots": 2.1,
+      "courseDeg": 42.5,
+      "headingDeg": 52,
+      "timestampUtc": "2026-07-13 15:33:27.427630031 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -74,12 +74,12 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.66050499999999,
-      "lon": 13.728063333333333,
-      "speedKnots": 0.1,
-      "courseDeg": 216.6,
-      "headingDeg": 169,
-      "timestampUtc": "2026-07-13 06:44:58.240503494 +0000 UTC"
+      "lat": 45.659758333333336,
+      "lon": 13.729236666666667,
+      "speedKnots": 0,
+      "courseDeg": 240.7,
+      "headingDeg": 288,
+      "timestampUtc": "2026-07-13 15:32:57.858916324 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.72660333333333,
-      "lon": 12.23318,
-      "speedKnots": 0,
-      "courseDeg": 160.6,
-      "headingDeg": 143,
-      "timestampUtc": "2026-07-13 06:45:27.382701674 +0000 UTC"
+      "lat": 41.388758333333335,
+      "lon": 11.204843333333335,
+      "speedKnots": 10.9,
+      "courseDeg": 248.2,
+      "headingDeg": 245,
+      "timestampUtc": "2026-07-13 15:33:55.406977423 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.56361166666667,
-      "lon": 2.637255,
+      "lat": 39.56347,
+      "lon": 2.637338333333333,
       "speedKnots": 0,
-      "courseDeg": 154.9,
+      "courseDeg": 81.4,
       "headingDeg": 328,
-      "timestampUtc": "2026-07-13 06:45:10.917861657 +0000 UTC"
+      "timestampUtc": "2026-07-13 15:33:08.900979456 +0000 UTC"
     },
     {
       "mmsi": "319093200",
