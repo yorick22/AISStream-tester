@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T10:00:43.517Z",
+  "generatedAt": "2026-07-13T12:32:34.830Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -17,9 +17,9 @@
       "lat": 40.826993333333334,
       "lon": 14.225333333333333,
       "speedKnots": 0,
-      "courseDeg": 335,
-      "headingDeg": 325,
-      "timestampUtc": "2026-07-12 22:24:16.98083892 +0000 UTC"
+      "courseDeg": 266,
+      "headingDeg": 332,
+      "timestampUtc": "2026-07-13 12:31:21.998884336 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.27650666666667,
-      "lon": 6.654101666666667,
-      "speedKnots": 0,
-      "courseDeg": 78.5,
-      "headingDeg": 298,
-      "timestampUtc": "2026-07-12 22:24:59.366674622 +0000 UTC"
+      "lat": 43.276285,
+      "lon": 6.6527683333333325,
+      "speedKnots": 0.1,
+      "courseDeg": 223.7,
+      "headingDeg": 52,
+      "timestampUtc": "2026-07-13 12:31:07.152452571 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.87727833333334,
-      "lon": 7.134175,
+      "lat": 60.876405,
+      "lon": 7.133965,
       "speedKnots": 0,
-      "courseDeg": 89.1,
-      "headingDeg": 133,
-      "timestampUtc": "2026-07-12 18:37:07.210592658 +0000 UTC"
+      "courseDeg": 166.6,
+      "headingDeg": 45,
+      "timestampUtc": "2026-07-13 12:31:13.979948474 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.35380333333333,
-      "lon": 6.861285,
-      "speedKnots": 12.7,
-      "courseDeg": 246.5,
-      "headingDeg": 244,
-      "timestampUtc": "2026-07-12 15:48:14.182179866 +0000 UTC"
+      "lat": 43.39190833333334,
+      "lon": 6.886378333333334,
+      "speedKnots": 12.3,
+      "courseDeg": 59.7,
+      "headingDeg": 62,
+      "timestampUtc": "2026-07-13 12:31:36.006537118 +0000 UTC"
     },
     {
       "mmsi": "229817000",
