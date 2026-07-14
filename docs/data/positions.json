@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T15:02:33.434Z",
+  "generatedAt": "2026-07-14T16:37:25.030Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -15,11 +15,11 @@
       "mmsi": "319099400",
       "name": "SAMURAI",
       "lat": 40.826993333333334,
-      "lon": 14.225498333333332,
+      "lon": 14.225333333333333,
       "speedKnots": 0,
-      "courseDeg": 140,
+      "courseDeg": 96,
       "headingDeg": 332,
-      "timestampUtc": "2026-07-14 06:25:14.137189484 +0000 UTC"
+      "timestampUtc": "2026-07-14 16:36:11.391474391 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.69902166666667,
-      "lon": 23.321665,
-      "speedKnots": 0,
-      "courseDeg": 272.8,
-      "headingDeg": 307,
-      "timestampUtc": "2026-07-13 23:33:30.469052718 +0000 UTC"
+      "lat": 37.77997833333333,
+      "lon": 23.404246666666666,
+      "speedKnots": 13,
+      "courseDeg": 49.5,
+      "headingDeg": 51,
+      "timestampUtc": "2026-07-14 16:37:15.581821814 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.735456666666664,
-      "lon": 7.436001666666667,
-      "speedKnots": 4.8,
-      "courseDeg": 147.3,
-      "headingDeg": 156,
-      "timestampUtc": "2026-07-14 06:26:01.527444012 +0000 UTC"
+      "lat": 43.58887,
+      "lon": 7.139735,
+      "speedKnots": 0,
+      "courseDeg": 220.6,
+      "headingDeg": 182,
+      "timestampUtc": "2026-07-14 16:37:10.417982543 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -174,12 +174,12 @@
     {
       "mmsi": "319242300",
       "name": "KENSHO",
-      "lat": 39.06816166666667,
-      "lon": 1.3798166666666667,
+      "lat": 38.768924999999996,
+      "lon": 1.4303750000000002,
       "speedKnots": 0,
-      "courseDeg": 126.2,
-      "headingDeg": 303,
-      "timestampUtc": "2026-07-11 14:09:14.726255988 +0000 UTC"
+      "courseDeg": 148.1,
+      "headingDeg": 250,
+      "timestampUtc": "2026-07-14 16:36:58.890947171 +0000 UTC"
     },
     {
       "mmsi": "319129000",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.69748166666667,
-      "lon": 7.312995,
+      "lat": 43.698115,
+      "lon": 7.313776666666667,
       "speedKnots": 0,
-      "courseDeg": 71.8,
-      "headingDeg": 97,
-      "timestampUtc": "2026-07-14 08:32:55.888045263 +0000 UTC"
+      "courseDeg": 39.3,
+      "headingDeg": 188,
+      "timestampUtc": "2026-07-14 16:35:59.921990378 +0000 UTC"
     },
     {
       "mmsi": "229817000",
