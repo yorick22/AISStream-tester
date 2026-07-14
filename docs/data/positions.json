@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:46:34.027Z",
+  "generatedAt": "2026-07-14T18:49:28.006Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -17,9 +17,9 @@
       "lat": 40.826993333333334,
       "lon": 14.225333333333333,
       "speedKnots": 0,
-      "courseDeg": 96,
+      "courseDeg": 111,
       "headingDeg": 332,
-      "timestampUtc": "2026-07-14 16:36:11.391474391 +0000 UTC"
+      "timestampUtc": "2026-07-14 18:48:12.654414173 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -94,22 +94,22 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.58356833333333,
-      "lon": 7.136778333333334,
-      "speedKnots": 0,
-      "courseDeg": 91.8,
-      "headingDeg": 197,
-      "timestampUtc": "2026-07-14 17:45:09.334463483 +0000 UTC"
+      "lat": 43.49545666666667,
+      "lon": 7.058201666666666,
+      "speedKnots": 9.2,
+      "courseDeg": 241.1,
+      "headingDeg": 239,
+      "timestampUtc": "2026-07-14 18:49:14.377742322 +0000 UTC"
     },
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.58887,
-      "lon": 7.139735,
+      "lat": 43.58893,
+      "lon": 7.14036,
       "speedKnots": 0,
-      "courseDeg": 220.6,
-      "headingDeg": 182,
-      "timestampUtc": "2026-07-14 16:37:10.417982543 +0000 UTC"
+      "courseDeg": 71.2,
+      "headingDeg": 198,
+      "timestampUtc": "2026-07-14 18:49:08.890031223 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -164,12 +164,12 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.80390666666666,
-      "lon": 23.77317833333333,
+      "lat": 37.803905,
+      "lon": 23.77315666666667,
       "speedKnots": 0,
       "courseDeg": 311.7,
       "headingDeg": 114,
-      "timestampUtc": "2026-07-13 06:45:55.423674888 +0000 UTC"
+      "timestampUtc": "2026-07-14 18:49:14.97332747 +0000 UTC"
     },
     {
       "mmsi": "319242300",
