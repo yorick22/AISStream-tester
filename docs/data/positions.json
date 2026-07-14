@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:16:05.261Z",
+  "generatedAt": "2026-07-14T06:26:10.071Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -15,11 +15,11 @@
       "mmsi": "319099400",
       "name": "SAMURAI",
       "lat": 40.826993333333334,
-      "lon": 14.225333333333333,
+      "lon": 14.225498333333332,
       "speedKnots": 0,
-      "courseDeg": 266,
+      "courseDeg": 140,
       "headingDeg": 332,
-      "timestampUtc": "2026-07-13 12:31:21.998884336 +0000 UTC"
+      "timestampUtc": "2026-07-14 06:25:14.137189484 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.276285,
-      "lon": 6.6527683333333325,
-      "speedKnots": 0.1,
-      "courseDeg": 223.7,
-      "headingDeg": 52,
-      "timestampUtc": "2026-07-13 12:31:07.152452571 +0000 UTC"
+      "lat": 43.737096666666666,
+      "lon": 7.4274466666666665,
+      "speedKnots": 0,
+      "courseDeg": 260,
+      "headingDeg": 74,
+      "timestampUtc": "2026-07-14 06:25:25.239466675 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.73449333333333,
-      "lon": 7.428701666666667,
-      "speedKnots": 0,
-      "courseDeg": 224.1,
-      "headingDeg": 42,
-      "timestampUtc": "2026-07-13 21:33:54.753353029 +0000 UTC"
+      "lat": 43.735456666666664,
+      "lon": 7.436001666666667,
+      "speedKnots": 4.8,
+      "courseDeg": 147.3,
+      "headingDeg": 156,
+      "timestampUtc": "2026-07-14 06:26:01.527444012 +0000 UTC"
     },
     {
       "mmsi": "247092700",
