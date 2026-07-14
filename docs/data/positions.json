@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-14T10:23:50.713Z",
+  "generatedAt": "2026-07-14T11:51:51.499Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.21293333333333,
-      "lon": 2.3999333333333337,
-      "speedKnots": 10.9,
-      "courseDeg": 314.9,
+      "lat": 41.37786666666667,
+      "lon": 2.18535,
+      "speedKnots": 0.6,
+      "courseDeg": 209.4,
       "headingDeg": 315,
-      "timestampUtc": "2026-07-14 10:23:23.717724319 +0000 UTC"
+      "timestampUtc": "2026-07-14 11:51:22.583001855 +0000 UTC"
     },
     {
       "mmsi": "319099400",
