@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T18:49:28.006Z",
+  "generatedAt": "2026-07-14T20:05:21.142Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.52229166666667,
-      "lon": 6.950888333333333,
-      "speedKnots": 0.4,
-      "courseDeg": 66.4,
-      "headingDeg": 110,
-      "timestampUtc": "2026-07-14 15:01:38.159262495 +0000 UTC"
+      "lat": 43.521745,
+      "lon": 6.951358333333333,
+      "speedKnots": 0,
+      "courseDeg": 260.4,
+      "headingDeg": 34,
+      "timestampUtc": "2026-07-14 20:04:39.040609853 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.876405,
-      "lon": 7.133965,
-      "speedKnots": 0,
-      "courseDeg": 166.6,
-      "headingDeg": 45,
-      "timestampUtc": "2026-07-13 12:31:13.979948474 +0000 UTC"
+      "lat": 61.13106833333333,
+      "lon": 5.145573333333333,
+      "speedKnots": 12.9,
+      "courseDeg": 313.9,
+      "headingDeg": 311,
+      "timestampUtc": "2026-07-14 20:05:10.086118185 +0000 UTC"
     },
     {
       "mmsi": "538071262",
