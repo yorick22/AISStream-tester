@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T06:26:10.071Z",
+  "generatedAt": "2026-07-14T08:33:34.423Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.58277,
-      "lon": 7.136808333333334,
+      "lat": 43.582755,
+      "lon": 7.136473333333333,
       "speedKnots": 0,
-      "courseDeg": 259,
-      "headingDeg": 29,
-      "timestampUtc": "2026-07-14 04:15:03.392674539 +0000 UTC"
+      "courseDeg": 293.7,
+      "headingDeg": 59,
+      "timestampUtc": "2026-07-14 08:33:04.686672179 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.39190833333334,
-      "lon": 6.886378333333334,
-      "speedKnots": 12.3,
-      "courseDeg": 59.7,
-      "headingDeg": 62,
-      "timestampUtc": "2026-07-13 12:31:36.006537118 +0000 UTC"
+      "lat": 43.69748166666667,
+      "lon": 7.312995,
+      "speedKnots": 0,
+      "courseDeg": 71.8,
+      "headingDeg": 97,
+      "timestampUtc": "2026-07-14 08:32:55.888045263 +0000 UTC"
     },
     {
       "mmsi": "229817000",
