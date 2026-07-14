@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:05:21.142Z",
+  "generatedAt": "2026-07-14T22:12:48.835Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -17,9 +17,9 @@
       "lat": 40.826993333333334,
       "lon": 14.225333333333333,
       "speedKnots": 0,
-      "courseDeg": 111,
-      "headingDeg": 332,
-      "timestampUtc": "2026-07-14 18:48:12.654414173 +0000 UTC"
+      "courseDeg": 183,
+      "headingDeg": 331,
+      "timestampUtc": "2026-07-14 22:11:21.816960866 +0000 UTC"
     },
     {
       "mmsi": "319086200",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.737095,
-      "lon": 7.427441666666667,
+      "lat": 43.541556666666665,
+      "lon": 7.015406666666666,
       "speedKnots": 0,
-      "courseDeg": 55.6,
-      "headingDeg": 73,
-      "timestampUtc": "2026-07-14 13:03:42.859121384 +0000 UTC"
+      "courseDeg": 294.3,
+      "headingDeg": 284,
+      "timestampUtc": "2026-07-14 22:12:16.964985223 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -194,12 +194,12 @@
     {
       "mmsi": "319093200",
       "name": "MOONSTONE",
-      "lat": 41.489445,
-      "lon": -71.32401333333334,
+      "lat": 41.48947,
+      "lon": -71.32403500000001,
       "speedKnots": 0,
       "courseDeg": 1.9,
       "headingDeg": 173,
-      "timestampUtc": "2026-07-13 21:32:45.334367665 +0000 UTC"
+      "timestampUtc": "2026-07-14 22:11:57.665616526 +0000 UTC"
     },
     {
       "mmsi": "319304500",
