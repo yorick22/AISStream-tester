@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:37:25.030Z",
+  "generatedAt": "2026-07-14T17:46:34.027Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -34,12 +34,12 @@
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.77997833333333,
-      "lon": 23.404246666666666,
-      "speedKnots": 13,
-      "courseDeg": 49.5,
-      "headingDeg": 51,
-      "timestampUtc": "2026-07-14 16:37:15.581821814 +0000 UTC"
+      "lat": 37.92352666666667,
+      "lon": 23.65444,
+      "speedKnots": 12.6,
+      "courseDeg": 53,
+      "headingDeg": 53,
+      "timestampUtc": "2026-07-14 17:45:12.0322572 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.74754666666667,
-      "lon": 2.6170283333333333,
-      "speedKnots": 0,
-      "courseDeg": 341,
-      "headingDeg": 252,
-      "timestampUtc": "2026-07-12 10:13:12.060731785 +0000 UTC"
+      "lat": 39.55417,
+      "lon": 2.6399416666666666,
+      "speedKnots": 7.6,
+      "courseDeg": 322.2,
+      "headingDeg": 314,
+      "timestampUtc": "2026-07-14 17:46:27.424803458 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.582755,
-      "lon": 7.136473333333333,
+      "lat": 43.58356833333333,
+      "lon": 7.136778333333334,
       "speedKnots": 0,
-      "courseDeg": 293.7,
-      "headingDeg": 59,
-      "timestampUtc": "2026-07-14 08:33:04.686672179 +0000 UTC"
+      "courseDeg": 91.8,
+      "headingDeg": 197,
+      "timestampUtc": "2026-07-14 17:45:09.334463483 +0000 UTC"
     },
     {
       "mmsi": "319149800",
