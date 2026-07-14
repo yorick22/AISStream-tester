@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-14T08:33:34.423Z",
+  "generatedAt": "2026-07-14T10:23:50.713Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.36983333333333,
-      "lon": 2.1847166666666666,
-      "speedKnots": 0,
-      "courseDeg": 186.2,
-      "headingDeg": 186,
-      "timestampUtc": "2026-07-12 12:13:44.412910863 +0000 UTC"
+      "lat": 41.21293333333333,
+      "lon": 2.3999333333333337,
+      "speedKnots": 10.9,
+      "courseDeg": 314.9,
+      "headingDeg": 315,
+      "timestampUtc": "2026-07-14 10:23:23.717724319 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.39306333333333,
-      "lon": 6.870135,
-      "speedKnots": 9,
-      "courseDeg": 56.1,
-      "headingDeg": 56,
-      "timestampUtc": "2026-07-14 04:15:05.99280733 +0000 UTC"
+      "lat": 43.535713333333334,
+      "lon": 7.015038333333334,
+      "speedKnots": 0,
+      "courseDeg": 179.1,
+      "headingDeg": 117,
+      "timestampUtc": "2026-07-14 10:23:16.486925437 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.737096666666666,
-      "lon": 7.4274466666666665,
+      "lat": 43.73710166666667,
+      "lon": 7.427436666666667,
       "speedKnots": 0,
-      "courseDeg": 260,
+      "courseDeg": 233.1,
       "headingDeg": 74,
-      "timestampUtc": "2026-07-14 06:25:25.239466675 +0000 UTC"
+      "timestampUtc": "2026-07-14 10:22:33.56471888 +0000 UTC"
     },
     {
       "mmsi": "319305700",
