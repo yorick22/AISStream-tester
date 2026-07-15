@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T14:42:24.856Z",
+  "generatedAt": "2026-07-15T16:09:02.045Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -64,22 +64,22 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56316666666667,
-      "lon": 2.6362949999999996,
+      "lat": 39.563195,
+      "lon": 2.636283333333333,
       "speedKnots": 0,
       "courseDeg": 166.2,
       "headingDeg": 327,
-      "timestampUtc": "2026-07-15 11:19:49.831306571 +0000 UTC"
+      "timestampUtc": "2026-07-15 16:07:50.007273325 +0000 UTC"
     },
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.660621666666664,
-      "lon": 13.728223333333334,
-      "speedKnots": 0.2,
-      "courseDeg": 44.9,
-      "headingDeg": 156,
-      "timestampUtc": "2026-07-13 21:32:57.715637352 +0000 UTC"
+      "lat": 45.659681666666664,
+      "lon": 13.731666666666666,
+      "speedKnots": 0,
+      "courseDeg": 62.7,
+      "headingDeg": 300,
+      "timestampUtc": "2026-07-15 16:08:58.609834457 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.528335,
-      "lon": 7.06129,
-      "speedKnots": 0.2,
-      "courseDeg": 286.9,
-      "headingDeg": 193,
-      "timestampUtc": "2026-07-15 11:20:30.390272576 +0000 UTC"
+      "lat": 43.528818333333334,
+      "lon": 7.062163333333333,
+      "speedKnots": 0.4,
+      "courseDeg": 118.6,
+      "headingDeg": 169,
+      "timestampUtc": "2026-07-15 16:08:35.269144349 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -124,12 +124,12 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.379625000000004,
-      "lon": 6.872563333333333,
-      "speedKnots": 12.2,
-      "courseDeg": 53.2,
-      "headingDeg": 53,
-      "timestampUtc": "2026-07-15 03:30:04.898299869 +0000 UTC"
+      "lat": 43.744881666666664,
+      "lon": 7.447711666666667,
+      "speedKnots": 0.3,
+      "courseDeg": 288,
+      "headingDeg": 233,
+      "timestampUtc": "2026-07-15 16:08:11.563426568 +0000 UTC"
     },
     {
       "mmsi": "319173300",
