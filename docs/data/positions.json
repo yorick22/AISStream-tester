@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:53:35.225Z",
+  "generatedAt": "2026-07-15T07:49:18.974Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.541556666666665,
-      "lon": 7.015406666666666,
-      "speedKnots": 0,
-      "courseDeg": 294.3,
-      "headingDeg": 284,
-      "timestampUtc": "2026-07-14 22:12:16.964985223 +0000 UTC"
+      "lat": 43.44936666666667,
+      "lon": 6.9517,
+      "speedKnots": 11,
+      "courseDeg": 209.2,
+      "headingDeg": 205,
+      "timestampUtc": "2026-07-15 07:48:17.066459956 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 61.13106833333333,
-      "lon": 5.145573333333333,
-      "speedKnots": 12.9,
-      "courseDeg": 313.9,
-      "headingDeg": 311,
-      "timestampUtc": "2026-07-14 20:05:10.086118185 +0000 UTC"
+      "lat": 62.394261666666665,
+      "lon": 6.5697600000000005,
+      "speedKnots": 0,
+      "courseDeg": 180.5,
+      "headingDeg": 7,
+      "timestampUtc": "2026-07-15 07:48:40.895122517 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.698115,
-      "lon": 7.313776666666667,
+      "lat": 43.530546666666666,
+      "lon": 7.0563416666666665,
       "speedKnots": 0,
-      "courseDeg": 39.3,
-      "headingDeg": 188,
-      "timestampUtc": "2026-07-14 16:35:59.921990378 +0000 UTC"
+      "courseDeg": 135.6,
+      "headingDeg": 126,
+      "timestampUtc": "2026-07-15 07:47:51.162649172 +0000 UTC"
     },
     {
       "mmsi": "229817000",
