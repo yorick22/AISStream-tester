@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:12:48.835Z",
+  "generatedAt": "2026-07-15T00:04:21.112Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.58893,
-      "lon": 7.14036,
+      "lat": 43.58866166666667,
+      "lon": 7.139775,
       "speedKnots": 0,
-      "courseDeg": 71.2,
-      "headingDeg": 198,
-      "timestampUtc": "2026-07-14 18:49:08.890031223 +0000 UTC"
+      "courseDeg": 270,
+      "headingDeg": 97,
+      "timestampUtc": "2026-07-15 00:04:10.998197942 +0000 UTC"
     },
     {
       "mmsi": "247092700",
