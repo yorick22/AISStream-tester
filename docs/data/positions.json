@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T20:49:30.829Z",
+  "generatedAt": "2026-07-15T21:46:42.603Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.127071666666666,
-      "lon": 6.690711666666667,
-      "speedKnots": 11.2,
-      "courseDeg": 211.1,
-      "headingDeg": 208,
-      "timestampUtc": "2026-07-15 09:48:57.022472498 +0000 UTC"
+      "lat": 43.323255,
+      "lon": 5.358881666666666,
+      "speedKnots": 0,
+      "courseDeg": 85.9,
+      "headingDeg": 149,
+      "timestampUtc": "2026-07-15 21:45:46.046337522 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.56345666666667,
-      "lon": 2.6373333333333333,
+      "lat": 39.563583333333334,
+      "lon": 2.6372583333333335,
       "speedKnots": 0,
-      "courseDeg": 27.2,
-      "headingDeg": 328,
-      "timestampUtc": "2026-07-14 13:03:23.546919033 +0000 UTC"
+      "courseDeg": 327.6,
+      "headingDeg": 327,
+      "timestampUtc": "2026-07-15 21:45:23.663832834 +0000 UTC"
     },
     {
       "mmsi": "319093200",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.53140666666666,
-      "lon": 7.057053333333333,
-      "speedKnots": 0.3,
-      "courseDeg": 88.3,
-      "headingDeg": 156,
-      "timestampUtc": "2026-07-15 12:47:53.908769372 +0000 UTC"
+      "lat": 43.530120000000004,
+      "lon": 7.056135,
+      "speedKnots": 0.1,
+      "courseDeg": 111.2,
+      "headingDeg": 85,
+      "timestampUtc": "2026-07-15 21:45:53.570916528 +0000 UTC"
     },
     {
       "mmsi": "229817000",
