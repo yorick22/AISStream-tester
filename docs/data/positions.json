@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T00:04:21.112Z",
+  "generatedAt": "2026-07-15T03:30:22.243Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.55417,
-      "lon": 2.6399416666666666,
-      "speedKnots": 7.6,
-      "courseDeg": 322.2,
-      "headingDeg": 314,
-      "timestampUtc": "2026-07-14 17:46:27.424803458 +0000 UTC"
+      "lat": 39.564478333333334,
+      "lon": 2.6382883333333336,
+      "speedKnots": 0,
+      "courseDeg": 135.6,
+      "headingDeg": 312,
+      "timestampUtc": "2026-07-15 03:28:51.03508083 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.49545666666667,
-      "lon": 7.058201666666666,
-      "speedKnots": 9.2,
-      "courseDeg": 241.1,
-      "headingDeg": 239,
-      "timestampUtc": "2026-07-14 18:49:14.377742322 +0000 UTC"
+      "lat": 43.53150333333333,
+      "lon": 7.025766666666667,
+      "speedKnots": 0.2,
+      "courseDeg": 100.3,
+      "headingDeg": 112,
+      "timestampUtc": "2026-07-15 03:30:05.1909349 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -124,12 +124,12 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.611286666666665,
-      "lon": 7.267686666666666,
-      "speedKnots": 9.8,
-      "courseDeg": 226.3,
-      "headingDeg": 223,
-      "timestampUtc": "2026-07-12 00:08:54.008127327 +0000 UTC"
+      "lat": 43.379625000000004,
+      "lon": 6.872563333333333,
+      "speedKnots": 12.2,
+      "courseDeg": 53.2,
+      "headingDeg": 53,
+      "timestampUtc": "2026-07-15 03:30:04.898299869 +0000 UTC"
     },
     {
       "mmsi": "319173300",
