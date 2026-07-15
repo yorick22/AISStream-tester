@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T09:49:16.655Z",
+  "generatedAt": "2026-07-15T11:21:09.420Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.535713333333334,
-      "lon": 7.015038333333334,
+      "lat": 43.58570833333333,
+      "lon": 7.141023333333334,
       "speedKnots": 0,
-      "courseDeg": 179.1,
-      "headingDeg": 117,
-      "timestampUtc": "2026-07-14 10:23:16.486925437 +0000 UTC"
+      "courseDeg": 270.3,
+      "headingDeg": 156,
+      "timestampUtc": "2026-07-15 11:19:39.004057321 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56447333333333,
-      "lon": 2.6382633333333336,
+      "lat": 39.56316666666667,
+      "lon": 2.6362949999999996,
       "speedKnots": 0,
-      "courseDeg": 135.6,
-      "headingDeg": 312,
-      "timestampUtc": "2026-07-15 05:52:48.308079653 +0000 UTC"
+      "courseDeg": 166.2,
+      "headingDeg": 327,
+      "timestampUtc": "2026-07-15 11:19:49.831306571 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -84,12 +84,12 @@
     {
       "mmsi": "247540140",
       "name": "NO RUSH",
-      "lat": 42.79673666666667,
-      "lon": 10.234275,
-      "speedKnots": 0.7,
-      "courseDeg": 79,
-      "headingDeg": 131,
-      "timestampUtc": "2026-07-13 19:02:35.341547709 +0000 UTC"
+      "lat": 41.826024999999994,
+      "lon": 10.297076666666667,
+      "speedKnots": 15.4,
+      "courseDeg": 217.2,
+      "headingDeg": 215,
+      "timestampUtc": "2026-07-15 11:20:24.044708143 +0000 UTC"
     },
     {
       "mmsi": "319134300",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.527744999999996,
-      "lon": 7.060903333333333,
-      "speedKnots": 0,
-      "courseDeg": 30,
-      "headingDeg": 100,
-      "timestampUtc": "2026-07-15 05:53:26.949243167 +0000 UTC"
+      "lat": 43.528335,
+      "lon": 7.06129,
+      "speedKnots": 0.2,
+      "courseDeg": 286.9,
+      "headingDeg": 193,
+      "timestampUtc": "2026-07-15 11:20:30.390272576 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -194,12 +194,12 @@
     {
       "mmsi": "319093200",
       "name": "MOONSTONE",
-      "lat": 41.48947,
-      "lon": -71.32403500000001,
+      "lat": 41.48946,
+      "lon": -71.32402833333335,
       "speedKnots": 0,
       "courseDeg": 1.9,
       "headingDeg": 173,
-      "timestampUtc": "2026-07-14 22:11:57.665616526 +0000 UTC"
+      "timestampUtc": "2026-07-15 11:20:55.497147346 +0000 UTC"
     },
     {
       "mmsi": "319304500",
