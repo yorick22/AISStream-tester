@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:47:45.253Z",
+  "generatedAt": "2026-07-16T20:44:55.218Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.529095,
-      "lon": 7.0615499999999995,
-      "speedKnots": 0.1,
-      "courseDeg": 76,
-      "headingDeg": 110,
-      "timestampUtc": "2026-07-16 17:38:36.389526424 +0000 UTC"
+      "lat": 43.529005,
+      "lon": 7.061185,
+      "speedKnots": 0,
+      "courseDeg": 306.1,
+      "headingDeg": 147,
+      "timestampUtc": "2026-07-16 20:44:44.873841325 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -124,12 +124,12 @@
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.69515,
-      "lon": 7.387621666666666,
-      "speedKnots": 12.9,
-      "courseDeg": 50.4,
-      "headingDeg": 50,
-      "timestampUtc": "2026-07-16 09:25:58.062414204 +0000 UTC"
+      "lat": 43.736758333333334,
+      "lon": 7.424171666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 335,
+      "headingDeg": 172,
+      "timestampUtc": "2026-07-16 20:43:47.723630214 +0000 UTC"
     },
     {
       "mmsi": "319173300",
