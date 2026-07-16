@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:26:37.797Z",
+  "generatedAt": "2026-07-16T11:16:39.917Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -54,12 +54,12 @@
     {
       "mmsi": "319305700",
       "name": "JAS",
-      "lat": 43.521745,
-      "lon": 6.951358333333333,
-      "speedKnots": 0,
-      "courseDeg": 260.4,
-      "headingDeg": 34,
-      "timestampUtc": "2026-07-14 20:04:39.040609853 +0000 UTC"
+      "lat": 43.33102333333333,
+      "lon": 6.77515,
+      "speedKnots": 12.7,
+      "courseDeg": 242,
+      "headingDeg": 241,
+      "timestampUtc": "2026-07-16 11:15:21.343404673 +0000 UTC"
     },
     {
       "mmsi": "232205000",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.360458333333334,
-      "lon": 9.229515,
-      "speedKnots": 7.4,
-      "courseDeg": 73,
-      "headingDeg": 72,
-      "timestampUtc": "2026-07-16 09:25:20.14658308 +0000 UTC"
+      "lat": 41.360675,
+      "lon": 9.234366666666666,
+      "speedKnots": 0.3,
+      "courseDeg": 199.8,
+      "headingDeg": 89,
+      "timestampUtc": "2026-07-16 11:16:13.579390876 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 62.394261666666665,
-      "lon": 6.5697600000000005,
-      "speedKnots": 0,
-      "courseDeg": 180.5,
-      "headingDeg": 7,
-      "timestampUtc": "2026-07-15 07:48:40.895122517 +0000 UTC"
+      "lat": 62.45509833333333,
+      "lon": 6.024133333333333,
+      "speedKnots": 13.6,
+      "courseDeg": 266,
+      "headingDeg": 259,
+      "timestampUtc": "2026-07-16 11:15:42.795283338 +0000 UTC"
     },
     {
       "mmsi": "538071262",
