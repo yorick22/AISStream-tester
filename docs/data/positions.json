@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:31:48.219Z",
+  "generatedAt": "2026-07-16T07:09:20.135Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -64,22 +64,22 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56315333333334,
-      "lon": 2.63627,
+      "lat": 39.563145,
+      "lon": 2.63626,
       "speedKnots": 0,
       "courseDeg": 166.2,
-      "headingDeg": 327,
-      "timestampUtc": "2026-07-15 18:43:53.121391423 +0000 UTC"
+      "headingDeg": 326,
+      "timestampUtc": "2026-07-16 07:07:53.662785417 +0000 UTC"
     },
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.659681666666664,
-      "lon": 13.731666666666666,
-      "speedKnots": 0,
-      "courseDeg": 62.7,
-      "headingDeg": 300,
-      "timestampUtc": "2026-07-15 16:08:58.609834457 +0000 UTC"
+      "lat": 45.65998166666667,
+      "lon": 13.731346666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 15.2,
+      "headingDeg": 323,
+      "timestampUtc": "2026-07-16 07:08:58.496964535 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -104,32 +104,32 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.528685,
-      "lon": 7.061508333333333,
+      "lat": 43.52851,
+      "lon": 7.061715,
       "speedKnots": 0,
-      "courseDeg": 192,
-      "headingDeg": 73,
-      "timestampUtc": "2026-07-16 01:23:37.777252193 +0000 UTC"
+      "courseDeg": 78.6,
+      "headingDeg": 51,
+      "timestampUtc": "2026-07-16 07:08:37.511682117 +0000 UTC"
     },
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.03107333333333,
-      "lon": 10.135449999999999,
-      "speedKnots": 11,
-      "courseDeg": 242.8,
-      "headingDeg": 241,
-      "timestampUtc": "2026-07-13 20:34:05.184358743 +0000 UTC"
+      "lat": 41.284308333333335,
+      "lon": 9.235263333333334,
+      "speedKnots": 10,
+      "courseDeg": 316.2,
+      "headingDeg": 309,
+      "timestampUtc": "2026-07-16 07:08:20.441967985 +0000 UTC"
     },
     {
       "mmsi": "538071689",
       "name": "SAMIRA",
-      "lat": 43.744818333333335,
-      "lon": 7.447678333333333,
-      "speedKnots": 0.3,
-      "courseDeg": 247,
-      "headingDeg": 194,
-      "timestampUtc": "2026-07-16 01:23:17.714237962 +0000 UTC"
+      "lat": 43.64972,
+      "lon": 7.181394999999999,
+      "speedKnots": 0.2,
+      "courseDeg": 193,
+      "headingDeg": 356,
+      "timestampUtc": "2026-07-16 07:08:07.183765509 +0000 UTC"
     },
     {
       "mmsi": "319173300",
@@ -194,12 +194,12 @@
     {
       "mmsi": "319093200",
       "name": "MOONSTONE",
-      "lat": 41.48945666666667,
-      "lon": -71.32401833333333,
+      "lat": 41.48947166666667,
+      "lon": -71.32402833333335,
       "speedKnots": 0,
       "courseDeg": 1.9,
-      "headingDeg": 173,
-      "timestampUtc": "2026-07-15 12:47:57.244355272 +0000 UTC"
+      "headingDeg": 174,
+      "timestampUtc": "2026-07-16 07:08:59.522209429 +0000 UTC"
     },
     {
       "mmsi": "319304500",
