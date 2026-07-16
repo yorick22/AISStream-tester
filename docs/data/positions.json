@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-16T18:46:37.939Z",
+  "generatedAt": "2026-07-16T19:47:45.253Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.37753333333333,
+      "lat": 41.37755,
       "lon": 2.1864666666666666,
       "speedKnots": 0,
       "courseDeg": 254,
       "headingDeg": 254,
-      "timestampUtc": "2026-07-15 14:41:00.832312197 +0000 UTC"
+      "timestampUtc": "2026-07-16 19:47:02.392841352 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.563145,
-      "lon": 2.63626,
+      "lat": 39.56314333333333,
+      "lon": 2.6362566666666667,
       "speedKnots": 0,
       "courseDeg": 166.2,
-      "headingDeg": 326,
-      "timestampUtc": "2026-07-16 07:07:53.662785417 +0000 UTC"
+      "headingDeg": 327,
+      "timestampUtc": "2026-07-16 19:47:01.003070009 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -94,12 +94,12 @@
     {
       "mmsi": "319134300",
       "name": "VOLPINI 2",
-      "lat": 43.53150333333333,
-      "lon": 7.025766666666667,
-      "speedKnots": 0.2,
-      "courseDeg": 100.3,
-      "headingDeg": 112,
-      "timestampUtc": "2026-07-15 03:30:05.1909349 +0000 UTC"
+      "lat": 43.735975,
+      "lon": 7.4818533333333335,
+      "speedKnots": 8.9,
+      "courseDeg": 91.6,
+      "headingDeg": 88,
+      "timestampUtc": "2026-07-16 19:46:44.426626743 +0000 UTC"
     },
     {
       "mmsi": "319149800",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 61.02838833333333,
-      "lon": 4.404613333333333,
-      "speedKnots": 13.3,
-      "courseDeg": 181.1,
-      "headingDeg": 177,
-      "timestampUtc": "2026-07-16 18:45:29.081560996 +0000 UTC"
+      "lat": 60.797673333333336,
+      "lon": 4.440651666666667,
+      "speedKnots": 13.5,
+      "courseDeg": 172.7,
+      "headingDeg": 170,
+      "timestampUtc": "2026-07-16 19:46:48.142361726 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -164,12 +164,12 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.803905,
-      "lon": 23.77315666666667,
+      "lat": 37.518299999999996,
+      "lon": 23.404723333333333,
       "speedKnots": 0,
-      "courseDeg": 311.7,
-      "headingDeg": 114,
-      "timestampUtc": "2026-07-14 18:49:14.97332747 +0000 UTC"
+      "courseDeg": 36.1,
+      "headingDeg": 181,
+      "timestampUtc": "2026-07-16 19:46:38.914525489 +0000 UTC"
     },
     {
       "mmsi": "319242300",
