@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:16:39.917Z",
+  "generatedAt": "2026-07-16T16:10:06.752Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,22 +24,22 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.546015000000004,
-      "lon": 7.11128,
+      "lat": 43.74224,
+      "lon": 7.444336666666667,
       "speedKnots": 0,
-      "courseDeg": 63,
-      "headingDeg": 193,
-      "timestampUtc": "2026-07-15 19:51:11.26614457 +0000 UTC"
+      "courseDeg": 27.6,
+      "headingDeg": 143,
+      "timestampUtc": "2026-07-16 16:09:25.847544799 +0000 UTC"
     },
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.93071833333333,
-      "lon": 23.681153333333334,
+      "lat": 37.93072333333334,
+      "lon": 23.68115,
       "speedKnots": 0,
-      "courseDeg": 119.3,
+      "courseDeg": 213.2,
       "headingDeg": 63,
-      "timestampUtc": "2026-07-15 20:48:38.330395206 +0000 UTC"
+      "timestampUtc": "2026-07-16 16:09:38.491422214 +0000 UTC"
     },
     {
       "mmsi": "228456700",
