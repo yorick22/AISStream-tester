@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-17T21:41:42.455Z",
+  "generatedAt": "2026-07-17T22:30:20.896Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.37755,
+      "lat": 41.37753333333333,
       "lon": 2.1864833333333333,
       "speedKnots": 0,
-      "courseDeg": 254.5,
-      "headingDeg": 255,
-      "timestampUtc": "2026-07-17 21:41:00.807552688 +0000 UTC"
+      "courseDeg": 254.1,
+      "headingDeg": 254,
+      "timestampUtc": "2026-07-17 22:29:01.434877115 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -44,12 +44,12 @@
     {
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
-      "lat": 43.324709999999996,
-      "lon": 5.358565,
+      "lat": 43.32469833333334,
+      "lon": 5.358558333333334,
       "speedKnots": 0,
-      "courseDeg": 323.5,
+      "courseDeg": 304.9,
       "headingDeg": 328,
-      "timestampUtc": "2026-07-17 12:20:47.914433507 +0000 UTC"
+      "timestampUtc": "2026-07-17 22:29:53.071495156 +0000 UTC"
     },
     {
       "mmsi": "319305700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.563135,
-      "lon": 2.636285,
+      "lat": 39.56313,
+      "lon": 2.636258333333333,
       "speedKnots": 0,
       "courseDeg": 166.2,
       "headingDeg": 327,
-      "timestampUtc": "2026-07-17 21:41:03.621636833 +0000 UTC"
+      "timestampUtc": "2026-07-17 22:29:06.718388662 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 57.542741666666664,
-      "lon": 11.275745,
-      "speedKnots": 13.5,
-      "courseDeg": 136.9,
-      "headingDeg": 131,
-      "timestampUtc": "2026-07-17 21:41:34.229162119 +0000 UTC"
+      "lat": 57.3874,
+      "lon": 11.460793333333333,
+      "speedKnots": 14.5,
+      "courseDeg": 164.1,
+      "headingDeg": 164,
+      "timestampUtc": "2026-07-17 22:29:31.127265582 +0000 UTC"
     },
     {
       "mmsi": "538071262",
