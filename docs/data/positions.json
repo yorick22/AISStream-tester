@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:47:43.428Z",
+  "generatedAt": "2026-07-17T21:41:42.455Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -7,9 +7,9 @@
       "lat": 41.37755,
       "lon": 2.1864833333333333,
       "speedKnots": 0,
-      "courseDeg": 253.9,
-      "headingDeg": 254,
-      "timestampUtc": "2026-07-16 23:47:02.237817407 +0000 UTC"
+      "courseDeg": 254.5,
+      "headingDeg": 255,
+      "timestampUtc": "2026-07-17 21:41:00.807552688 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.563115,
-      "lon": 2.636261666666667,
+      "lat": 39.563135,
+      "lon": 2.636285,
       "speedKnots": 0,
       "courseDeg": 166.2,
       "headingDeg": 327,
-      "timestampUtc": "2026-07-16 23:47:00.578187421 +0000 UTC"
+      "timestampUtc": "2026-07-17 21:41:03.621636833 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 57.70194,
-      "lon": 11.019311666666665,
-      "speedKnots": 14.1,
-      "courseDeg": 136.8,
-      "headingDeg": 138,
-      "timestampUtc": "2026-07-17 20:47:24.090035125 +0000 UTC"
+      "lat": 57.542741666666664,
+      "lon": 11.275745,
+      "speedKnots": 13.5,
+      "courseDeg": 136.9,
+      "headingDeg": 131,
+      "timestampUtc": "2026-07-17 21:41:34.229162119 +0000 UTC"
     },
     {
       "mmsi": "538071262",
