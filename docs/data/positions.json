@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T19:58:34.866Z",
+  "generatedAt": "2026-07-17T20:47:43.428Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -125,21 +125,21 @@
       "mmsi": "538071689",
       "name": "SAMIRA",
       "lat": 43.736758333333334,
-      "lon": 7.424173333333333,
-      "speedKnots": 0.2,
-      "courseDeg": 254,
+      "lon": 7.424181666666667,
+      "speedKnots": 0.1,
+      "courseDeg": 126,
       "headingDeg": 172,
-      "timestampUtc": "2026-07-17 14:10:55.941341667 +0000 UTC"
+      "timestampUtc": "2026-07-17 20:47:00.179879666 +0000 UTC"
     },
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 58.241526666666665,
-      "lon": 5.409041666666667,
-      "speedKnots": 12.8,
-      "courseDeg": 129.2,
-      "headingDeg": 125,
-      "timestampUtc": "2026-07-17 07:01:35.169800275 +0000 UTC"
+      "lat": 57.70194,
+      "lon": 11.019311666666665,
+      "speedKnots": 14.1,
+      "courseDeg": 136.8,
+      "headingDeg": 138,
+      "timestampUtc": "2026-07-17 20:47:24.090035125 +0000 UTC"
     },
     {
       "mmsi": "538071262",
