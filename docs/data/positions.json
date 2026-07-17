@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T04:37:59.221Z",
+  "generatedAt": "2026-07-17T07:02:33.664Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.529005,
-      "lon": 7.061185,
-      "speedKnots": 0,
-      "courseDeg": 306.1,
-      "headingDeg": 147,
-      "timestampUtc": "2026-07-16 20:44:44.873841325 +0000 UTC"
+      "lat": 43.526361666666666,
+      "lon": 7.134273333333334,
+      "speedKnots": 14.1,
+      "courseDeg": 64.9,
+      "headingDeg": 62,
+      "timestampUtc": "2026-07-17 07:02:17.70331461 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 60.797673333333336,
-      "lon": 4.440651666666667,
-      "speedKnots": 13.5,
-      "courseDeg": 172.7,
-      "headingDeg": 170,
-      "timestampUtc": "2026-07-16 19:46:48.142361726 +0000 UTC"
+      "lat": 58.241526666666665,
+      "lon": 5.409041666666667,
+      "speedKnots": 12.8,
+      "courseDeg": 129.2,
+      "headingDeg": 125,
+      "timestampUtc": "2026-07-17 07:01:35.169800275 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -154,22 +154,22 @@
     {
       "mmsi": "538071318",
       "name": "QUINTA ESSENTIA",
-      "lat": 36.842353333333335,
-      "lon": 28.285473333333336,
-      "speedKnots": 0,
-      "courseDeg": 200.6,
-      "headingDeg": 36,
-      "timestampUtc": "2026-07-16 23:47:30.78746335 +0000 UTC"
+      "lat": 36.547133333333335,
+      "lon": 27.966824999999996,
+      "speedKnots": 10.7,
+      "courseDeg": 326.8,
+      "headingDeg": 329,
+      "timestampUtc": "2026-07-17 07:02:28.918775297 +0000 UTC"
     },
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.518299999999996,
-      "lon": 23.40475,
-      "speedKnots": 0,
-      "courseDeg": 36.1,
-      "headingDeg": 180,
-      "timestampUtc": "2026-07-16 22:46:40.302155957 +0000 UTC"
+      "lat": 37.51831333333334,
+      "lon": 23.40476,
+      "speedKnots": 0.1,
+      "courseDeg": 269.9,
+      "headingDeg": 173,
+      "timestampUtc": "2026-07-17 07:01:45.153973062 +0000 UTC"
     },
     {
       "mmsi": "319242300",
