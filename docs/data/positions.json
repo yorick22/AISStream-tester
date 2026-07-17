@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T18:52:13.499Z",
+  "generatedAt": "2026-07-17T19:58:34.866Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -105,11 +105,11 @@
       "mmsi": "319149800",
       "name": "MY ILONA",
       "lat": 43.586088333333336,
-      "lon": 7.129745,
+      "lon": 7.129735,
       "speedKnots": 0,
       "courseDeg": 117.7,
-      "headingDeg": 303,
-      "timestampUtc": "2026-07-17 15:36:38.123356766 +0000 UTC"
+      "headingDeg": 302,
+      "timestampUtc": "2026-07-17 19:57:43.886499117 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -174,12 +174,12 @@
     {
       "mmsi": "319242300",
       "name": "KENSHO",
-      "lat": 38.768924999999996,
-      "lon": 1.4303750000000002,
+      "lat": 38.77289,
+      "lon": 1.426925,
       "speedKnots": 0,
-      "courseDeg": 148.1,
-      "headingDeg": 250,
-      "timestampUtc": "2026-07-14 16:36:58.890947171 +0000 UTC"
+      "courseDeg": 131.6,
+      "headingDeg": 256,
+      "timestampUtc": "2026-07-17 19:58:16.170826056 +0000 UTC"
     },
     {
       "mmsi": "319129000",
@@ -214,12 +214,12 @@
     {
       "mmsi": "229817000",
       "name": "GHOST III",
-      "lat": 38.20591833333334,
-      "lon": 15.596378333333332,
-      "speedKnots": 9.3,
-      "courseDeg": 145.8,
-      "headingDeg": 152,
-      "timestampUtc": "2026-07-12 08:36:29.279463977 +0000 UTC"
+      "lat": 37.84327333333333,
+      "lon": 15.293166666666668,
+      "speedKnots": 0,
+      "courseDeg": 125,
+      "headingDeg": 212,
+      "timestampUtc": "2026-07-17 19:58:10.673403169 +0000 UTC"
     },
     {
       "mmsi": "319904000",
@@ -234,12 +234,12 @@
     {
       "mmsi": "256817000",
       "name": "THIS IS IT I",
-      "lat": 37.29349833333333,
-      "lon": 23.189948333333334,
+      "lat": 37.29349166666667,
+      "lon": 23.189943333333336,
       "speedKnots": 0,
       "courseDeg": 69.6,
-      "headingDeg": 165,
-      "timestampUtc": "2026-07-17 18:51:01.34775194 +0000 UTC"
+      "headingDeg": 164,
+      "timestampUtc": "2026-07-17 19:57:22.372085744 +0000 UTC"
     }
   ]
 }
