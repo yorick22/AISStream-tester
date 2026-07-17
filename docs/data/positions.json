@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:28:05.633Z",
+  "generatedAt": "2026-07-17T04:37:59.221Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.74224,
-      "lon": 7.444336666666667,
-      "speedKnots": 0,
-      "courseDeg": 27.6,
-      "headingDeg": 143,
-      "timestampUtc": "2026-07-16 16:09:25.847544799 +0000 UTC"
+      "lat": 43.704118333333334,
+      "lon": 7.404475000000001,
+      "speedKnots": 9.2,
+      "courseDeg": 277.7,
+      "headingDeg": 277,
+      "timestampUtc": "2026-07-17 04:37:43.852292846 +0000 UTC"
     },
     {
       "mmsi": "249091000",
