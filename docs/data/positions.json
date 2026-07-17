@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:11:18.075Z",
+  "generatedAt": "2026-07-17T15:37:44.419Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.71516,
-      "lon": 7.363706666666667,
+      "lat": 43.71523833333333,
+      "lon": 7.363945,
       "speedKnots": 0,
       "courseDeg": 305.1,
-      "headingDeg": 120,
-      "timestampUtc": "2026-07-17 09:19:54.20763244 +0000 UTC"
+      "headingDeg": 162,
+      "timestampUtc": "2026-07-17 15:37:32.974296598 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.526361666666666,
-      "lon": 7.134273333333334,
-      "speedKnots": 14.1,
-      "courseDeg": 64.9,
-      "headingDeg": 62,
-      "timestampUtc": "2026-07-17 07:02:17.70331461 +0000 UTC"
+      "lat": 43.586088333333336,
+      "lon": 7.129745,
+      "speedKnots": 0,
+      "courseDeg": 117.7,
+      "headingDeg": 303,
+      "timestampUtc": "2026-07-17 15:36:38.123356766 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -164,12 +164,12 @@
     {
       "mmsi": "249528000",
       "name": "RAJA2",
-      "lat": 37.51831333333334,
-      "lon": 23.40476,
-      "speedKnots": 0.1,
-      "courseDeg": 269.9,
-      "headingDeg": 173,
-      "timestampUtc": "2026-07-17 07:01:45.153973062 +0000 UTC"
+      "lat": 37.51833666666666,
+      "lon": 23.404713333333333,
+      "speedKnots": 0,
+      "courseDeg": 279.9,
+      "headingDeg": 178,
+      "timestampUtc": "2026-07-17 15:37:24.994401878 +0000 UTC"
     },
     {
       "mmsi": "319242300",
@@ -235,11 +235,11 @@
       "mmsi": "256817000",
       "name": "THIS IS IT I",
       "lat": 37.29349166666667,
-      "lon": 23.189938333333334,
+      "lon": 23.189903333333334,
       "speedKnots": 0,
       "courseDeg": 69.6,
-      "headingDeg": 172,
-      "timestampUtc": "2026-07-17 14:11:01.055489889 +0000 UTC"
+      "headingDeg": 170,
+      "timestampUtc": "2026-07-17 15:36:51.962020689 +0000 UTC"
     }
   ]
 }
