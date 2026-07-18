@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:35:42.961Z",
+  "generatedAt": "2026-07-18T12:36:33.135Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -65,11 +65,11 @@
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
       "lat": 39.56314166666667,
-      "lon": 2.6362783333333337,
+      "lon": 2.6362799999999997,
       "speedKnots": 0,
       "courseDeg": 166.2,
       "headingDeg": 327,
-      "timestampUtc": "2026-07-18 09:08:08.187139415 +0000 UTC"
+      "timestampUtc": "2026-07-18 12:35:11.868589332 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -234,12 +234,12 @@
     {
       "mmsi": "256817000",
       "name": "THIS IS IT I",
-      "lat": 37.93838166666667,
-      "lon": 23.666745,
-      "speedKnots": 0,
-      "courseDeg": 194.2,
-      "headingDeg": 28,
-      "timestampUtc": "2026-07-18 07:25:36.575357163 +0000 UTC"
+      "lat": 37.86861,
+      "lon": 23.190166666666666,
+      "speedKnots": 13.8,
+      "courseDeg": 279.8,
+      "headingDeg": 281,
+      "timestampUtc": "2026-07-18 12:35:46.914672615 +0000 UTC"
     },
     {
       "mmsi": "339435000",
@@ -254,12 +254,12 @@
     {
       "mmsi": "241718000",
       "name": "GECO",
-      "lat": 37.51374333333333,
-      "lon": 23.43620333333333,
-      "speedKnots": 0,
-      "courseDeg": 146.1,
-      "headingDeg": 221,
-      "timestampUtc": "2026-07-18 03:31:40.122973541 +0000 UTC"
+      "lat": 37.90629,
+      "lon": 23.654716666666666,
+      "speedKnots": 15.8,
+      "courseDeg": 36.5,
+      "headingDeg": 34,
+      "timestampUtc": "2026-07-18 12:35:39.208210949 +0000 UTC"
     }
   ]
 }
