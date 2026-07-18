@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T23:24:49.862Z",
+  "generatedAt": "2026-07-18T00:15:23.400Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,12 +24,12 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.71521333333333,
-      "lon": 7.364135,
+      "lat": 43.715180000000004,
+      "lon": 7.363969999999999,
       "speedKnots": 0,
       "courseDeg": 305.1,
-      "headingDeg": 180,
-      "timestampUtc": "2026-07-17 18:51:14.161109134 +0000 UTC"
+      "headingDeg": 144,
+      "timestampUtc": "2026-07-18 00:14:13.754976585 +0000 UTC"
     },
     {
       "mmsi": "249091000",
@@ -74,12 +74,12 @@
     {
       "mmsi": "667002036",
       "name": "SY A",
-      "lat": 45.65998833333333,
-      "lon": 13.730163333333333,
-      "speedKnots": 0,
-      "courseDeg": 202.1,
-      "headingDeg": 276,
-      "timestampUtc": "2026-07-17 18:50:57.3952761 +0000 UTC"
+      "lat": 45.65943333333333,
+      "lon": 13.728753333333334,
+      "speedKnots": 0.1,
+      "courseDeg": 313.5,
+      "headingDeg": 34,
+      "timestampUtc": "2026-07-18 00:14:57.504751708 +0000 UTC"
     },
     {
       "mmsi": "247540140",
@@ -240,6 +240,16 @@
       "courseDeg": 69.6,
       "headingDeg": 164,
       "timestampUtc": "2026-07-17 19:57:22.372085744 +0000 UTC"
+    },
+    {
+      "mmsi": "339435000",
+      "name": "NITA K II",
+      "lat": 38.310849999999995,
+      "lon": 21.74587166666667,
+      "speedKnots": 8.3,
+      "courseDeg": 69,
+      "headingDeg": 67,
+      "timestampUtc": "2026-07-18 00:15:05.565048973 +0000 UTC"
     }
   ]
 }
