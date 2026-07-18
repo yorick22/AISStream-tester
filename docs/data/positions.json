@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T00:15:23.400Z",
+  "generatedAt": "2026-07-18T03:32:26.622Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -24,22 +24,22 @@
     {
       "mmsi": "319086200",
       "name": "BOADICEA",
-      "lat": 43.715180000000004,
-      "lon": 7.363969999999999,
+      "lat": 43.71522166666667,
+      "lon": 7.36412,
       "speedKnots": 0,
       "courseDeg": 305.1,
-      "headingDeg": 144,
-      "timestampUtc": "2026-07-18 00:14:13.754976585 +0000 UTC"
+      "headingDeg": 179,
+      "timestampUtc": "2026-07-18 03:32:14.043452258 +0000 UTC"
     },
     {
       "mmsi": "249091000",
       "name": "KOGO",
-      "lat": 37.93072333333334,
-      "lon": 23.68115,
-      "speedKnots": 0,
-      "courseDeg": 213.2,
-      "headingDeg": 63,
-      "timestampUtc": "2026-07-16 16:09:38.491422214 +0000 UTC"
+      "lat": 37.301318333333334,
+      "lon": 23.291308333333333,
+      "speedKnots": 12.6,
+      "courseDeg": 250.7,
+      "headingDeg": 250,
+      "timestampUtc": "2026-07-18 03:31:36.290763876 +0000 UTC"
     },
     {
       "mmsi": "228456700",
@@ -64,12 +64,12 @@
     {
       "mmsi": "232205000",
       "name": "LADY GEORGINA",
-      "lat": 39.56313,
-      "lon": 2.636258333333333,
+      "lat": 39.56313166666666,
+      "lon": 2.6362433333333333,
       "speedKnots": 0,
       "courseDeg": 166.2,
       "headingDeg": 327,
-      "timestampUtc": "2026-07-17 22:29:06.718388662 +0000 UTC"
+      "timestampUtc": "2026-07-18 03:32:11.084317733 +0000 UTC"
     },
     {
       "mmsi": "667002036",
@@ -214,12 +214,12 @@
     {
       "mmsi": "229817000",
       "name": "GHOST III",
-      "lat": 37.84327333333333,
-      "lon": 15.293166666666668,
-      "speedKnots": 0,
-      "courseDeg": 125,
-      "headingDeg": 212,
-      "timestampUtc": "2026-07-17 19:58:10.673403169 +0000 UTC"
+      "lat": 38.35577333333333,
+      "lon": 15.36969,
+      "speedKnots": 9.2,
+      "courseDeg": 282.2,
+      "headingDeg": 284,
+      "timestampUtc": "2026-07-18 03:31:28.027404868 +0000 UTC"
     },
     {
       "mmsi": "319904000",
@@ -233,13 +233,13 @@
     },
     {
       "mmsi": "256817000",
-      "name": "THIS IS IT I",
-      "lat": 37.29349166666667,
-      "lon": 23.189943333333336,
+      "name": "MMSI 256817000",
+      "lat": 37.938388333333336,
+      "lon": 23.666741666666667,
       "speedKnots": 0,
-      "courseDeg": 69.6,
-      "headingDeg": 164,
-      "timestampUtc": "2026-07-17 19:57:22.372085744 +0000 UTC"
+      "courseDeg": 194.2,
+      "headingDeg": 29,
+      "timestampUtc": "2026-07-18 03:31:27.562559417 +0000 UTC"
     },
     {
       "mmsi": "339435000",
@@ -250,6 +250,16 @@
       "courseDeg": 69,
       "headingDeg": 67,
       "timestampUtc": "2026-07-18 00:15:05.565048973 +0000 UTC"
+    },
+    {
+      "mmsi": "241718000",
+      "name": "GECO",
+      "lat": 37.51374333333333,
+      "lon": 23.43620333333333,
+      "speedKnots": 0,
+      "courseDeg": 146.1,
+      "headingDeg": 221,
+      "timestampUtc": "2026-07-18 03:31:40.122973541 +0000 UTC"
     }
   ]
 }
