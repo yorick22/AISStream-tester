@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T20:12:17.614Z",
+  "generatedAt": "2026-07-18T21:04:58.532Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,12 +104,12 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.58606333333333,
-      "lon": 7.129746666666667,
+      "lat": 43.586059999999996,
+      "lon": 7.12977,
       "speedKnots": 0,
       "courseDeg": 117.7,
       "headingDeg": 301,
-      "timestampUtc": "2026-07-18 19:21:47.796569891 +0000 UTC"
+      "timestampUtc": "2026-07-18 21:03:51.132657193 +0000 UTC"
     },
     {
       "mmsi": "247092700",
@@ -224,22 +224,22 @@
     {
       "mmsi": "319904000",
       "name": "ATLANTIS",
-      "lat": 36.739446666666666,
-      "lon": 26.976948333333333,
+      "lat": 36.73952,
+      "lon": 26.97703,
       "speedKnots": 0,
-      "courseDeg": 203.9,
-      "headingDeg": 289,
-      "timestampUtc": "2026-07-18 20:11:21.898978331 +0000 UTC"
+      "courseDeg": 37,
+      "headingDeg": 266,
+      "timestampUtc": "2026-07-18 21:03:42.94184591 +0000 UTC"
     },
     {
       "mmsi": "256817000",
       "name": "THIS IS IT I",
-      "lat": 38.34844666666667,
-      "lon": 21.83026166666667,
-      "speedKnots": 14.8,
-      "courseDeg": 258.5,
-      "headingDeg": 255,
-      "timestampUtc": "2026-07-18 19:22:48.385696803 +0000 UTC"
+      "lat": 38.24615333333334,
+      "lon": 21.343463333333332,
+      "speedKnots": 15.4,
+      "courseDeg": 269,
+      "headingDeg": 271,
+      "timestampUtc": "2026-07-18 21:03:27.444826408 +0000 UTC"
     },
     {
       "mmsi": "339435000",
