@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T05:52:26.015Z",
+  "generatedAt": "2026-07-18T07:26:12.660Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 57.3874,
-      "lon": 11.460793333333333,
-      "speedKnots": 14.5,
-      "courseDeg": 164.1,
-      "headingDeg": 164,
-      "timestampUtc": "2026-07-17 22:29:31.127265582 +0000 UTC"
+      "lat": 55.686185,
+      "lon": 12.598054999999999,
+      "speedKnots": 0,
+      "courseDeg": 244.3,
+      "headingDeg": 202,
+      "timestampUtc": "2026-07-18 07:25:44.27205658 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -204,12 +204,12 @@
     {
       "mmsi": "319304500",
       "name": "AMALYA",
-      "lat": 43.530120000000004,
-      "lon": 7.056135,
-      "speedKnots": 0.1,
-      "courseDeg": 111.2,
-      "headingDeg": 85,
-      "timestampUtc": "2026-07-15 21:45:53.570916528 +0000 UTC"
+      "lat": 41.832501666666666,
+      "lon": 9.612008333333334,
+      "speedKnots": 12.7,
+      "courseDeg": 194.5,
+      "headingDeg": 191,
+      "timestampUtc": "2026-07-18 07:25:30.684831813 +0000 UTC"
     },
     {
       "mmsi": "229817000",
@@ -234,12 +234,12 @@
     {
       "mmsi": "256817000",
       "name": "THIS IS IT I",
-      "lat": 37.93839666666667,
-      "lon": 23.666735000000003,
+      "lat": 37.93838166666667,
+      "lon": 23.666745,
       "speedKnots": 0,
       "courseDeg": 194.2,
-      "headingDeg": 29,
-      "timestampUtc": "2026-07-18 05:51:51.660398781 +0000 UTC"
+      "headingDeg": 28,
+      "timestampUtc": "2026-07-18 07:25:36.575357163 +0000 UTC"
     },
     {
       "mmsi": "339435000",
