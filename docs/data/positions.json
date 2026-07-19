@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T00:07:39.605Z",
+  "generatedAt": "2026-07-19T03:49:57.671Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -104,22 +104,22 @@
     {
       "mmsi": "319149800",
       "name": "MY ILONA",
-      "lat": 43.586058333333334,
-      "lon": 7.129755,
+      "lat": 43.58606333333333,
+      "lon": 7.129763333333333,
       "speedKnots": 0,
       "courseDeg": 117.7,
-      "headingDeg": 302,
-      "timestampUtc": "2026-07-18 23:06:51.460842862 +0000 UTC"
+      "headingDeg": 301,
+      "timestampUtc": "2026-07-19 03:48:51.900116891 +0000 UTC"
     },
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.608756666666665,
-      "lon": 9.357286666666665,
-      "speedKnots": 9.6,
-      "courseDeg": 280.3,
-      "headingDeg": 273,
-      "timestampUtc": "2026-07-18 17:12:48.804344104 +0000 UTC"
+      "lat": 41.599394999999994,
+      "lon": 9.301023333333335,
+      "speedKnots": 0,
+      "courseDeg": 136.4,
+      "headingDeg": 244,
+      "timestampUtc": "2026-07-19 03:49:53.411291137 +0000 UTC"
     },
     {
       "mmsi": "538071689",
@@ -184,12 +184,12 @@
     {
       "mmsi": "319129000",
       "name": "VALENTINA",
-      "lat": 39.929003333333334,
-      "lon": 4.919581666666667,
-      "speedKnots": 11.7,
-      "courseDeg": 62.9,
-      "headingDeg": 62,
-      "timestampUtc": "2026-07-18 20:10:59.619941894 +0000 UTC"
+      "lat": 40.56977333333334,
+      "lon": 6.580731666666667,
+      "speedKnots": 10.7,
+      "courseDeg": 62.6,
+      "headingDeg": 66,
+      "timestampUtc": "2026-07-19 03:48:41.168262086 +0000 UTC"
     },
     {
       "mmsi": "319093200",
