@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T11:26:21.525Z",
+  "generatedAt": "2026-07-19T12:12:15.693Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -45,11 +45,11 @@
       "mmsi": "228456700",
       "name": "ARTEXPLORER",
       "lat": 43.324708333333334,
-      "lon": 5.358549999999999,
+      "lon": 5.358565,
       "speedKnots": 0,
-      "courseDeg": 120.2,
+      "courseDeg": 338,
       "headingDeg": 328,
-      "timestampUtc": "2026-07-18 15:12:03.693558896 +0000 UTC"
+      "timestampUtc": "2026-07-19 12:12:13.148724607 +0000 UTC"
     },
     {
       "mmsi": "319305700",
