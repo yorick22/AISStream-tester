@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T15:45:22.084Z",
+  "generatedAt": "2026-07-19T17:40:54.689Z",
   "vessels": [
     {
       "mmsi": "538071148",
@@ -134,12 +134,12 @@
     {
       "mmsi": "319173300",
       "name": "LIFE SAGA",
-      "lat": 55.68618333333333,
-      "lon": 12.598025,
+      "lat": 55.68618666666667,
+      "lon": 12.598028333333334,
       "speedKnots": 0,
       "courseDeg": 244.3,
-      "headingDeg": 203,
-      "timestampUtc": "2026-07-19 06:22:33.667802666 +0000 UTC"
+      "headingDeg": 202,
+      "timestampUtc": "2026-07-19 17:40:35.597528339 +0000 UTC"
     },
     {
       "mmsi": "538071262",
@@ -254,12 +254,12 @@
     {
       "mmsi": "241718000",
       "name": "GECO",
-      "lat": 37.90629,
-      "lon": 23.654716666666666,
-      "speedKnots": 15.8,
-      "courseDeg": 36.5,
-      "headingDeg": 34,
-      "timestampUtc": "2026-07-18 12:35:39.208210949 +0000 UTC"
+      "lat": 37.26992,
+      "lon": 23.155025000000002,
+      "speedKnots": 0,
+      "courseDeg": 29.7,
+      "headingDeg": 89,
+      "timestampUtc": "2026-07-19 17:39:49.790621873 +0000 UTC"
     }
   ]
 }
