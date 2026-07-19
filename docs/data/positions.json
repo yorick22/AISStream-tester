@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-19T06:22:37.143Z",
+  "generatedAt": "2026-07-19T08:41:22.369Z",
   "vessels": [
     {
       "mmsi": "538071148",
       "name": "ARTEFACT",
-      "lat": 41.37755,
+      "lat": 41.37753333333333,
       "lon": 2.1864666666666666,
       "speedKnots": 0,
       "courseDeg": 254.1,
       "headingDeg": 254,
-      "timestampUtc": "2026-07-18 11:35:01.233903431 +0000 UTC"
+      "timestampUtc": "2026-07-19 08:41:00.976502531 +0000 UTC"
     },
     {
       "mmsi": "319099400",
@@ -114,12 +114,12 @@
     {
       "mmsi": "247092700",
       "name": "ALTAIR III",
-      "lat": 41.599394999999994,
-      "lon": 9.301023333333335,
+      "lat": 41.59901,
+      "lon": 9.300563333333335,
       "speedKnots": 0,
-      "courseDeg": 136.4,
-      "headingDeg": 244,
-      "timestampUtc": "2026-07-19 03:49:53.411291137 +0000 UTC"
+      "courseDeg": 0.5,
+      "headingDeg": 43,
+      "timestampUtc": "2026-07-19 08:40:52.902629411 +0000 UTC"
     },
     {
       "mmsi": "538071689",
